@@ -3,9 +3,9 @@
     "Message": "This Config gen is blocked by developer! Reason using leak dns, Contact: Fixbuild!",
     "com.fixbuildcore.vpngen.lemonvipnet": {
         "isDestroy": false,
-        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/nooorvipvpnloginv2.json",
-        "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/nooorvipvpnloginv2.json",
-        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/nooorvipvpnloginv2.json",
-        "noticeLink": "https://noorproxy.xyz/api/app?json=f8d231427e7b3f9c5868"
+        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/lemonvipnet.json",
+        "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/lemonvipnet.json",
+        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/lemonvipnet.json",
+        "noticeLink": "https://lemonvipnet.xyz/api/app?json=267a5ffe3bfb99f902a9"
     }
 }
