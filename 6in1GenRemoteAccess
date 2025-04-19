@@ -1,6 +1,183 @@
 
 {
     "Message": "This Config gen is blocked by developer! Reason using leak dns, Contact: Fixbuild!",
+    "com.fixbuildcore.vpngen.fastraygen": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/JsonUpdater/refs/heads/main/fastray.json",
+        "postLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/fastray.json",
+        "getLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/fastray.json"
+        
+    },
+    "com.fixbuildcore.vpngen.starlinkvpngen": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/JsonUpdater/refs/heads/main/starlinkvpngen.json",
+        "postLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/starlinkvpngen.json",
+        "getLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/starlinkvpngen.json"
+        
+    },
+    "com.fixbuildcore.vpngen.mobilyv2raygen": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/JsonUpdater/refs/heads/main/mobilyv2ray.json",
+        "postLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/mobilyv2ray.json",
+        "getLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/mobilyv2ray.json"
+    },
+    "com.fixbuildcore.vpngen.noorvipvpn": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/JsonUpdater/refs/heads/main/nooorvipvpnloginv2.json",
+        "postLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/nooorvipvpnloginv2.json",
+        "getLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/nooorvipvpnloginv2.json",
+        "noticeLink": "https://noorproxy.xyz/api/app?json=f8d231427e7b3f9c5868"
+    },
+    "com.fixbuildcore.vpngen.imranv2ray": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/JsonUpdater/refs/heads/main/imranv2rayloginv3.json",
+        "postLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/imranv2rayloginv3.json",
+        "getLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/imranv2rayloginv3.json",
+        "noticeLink": "https://ikingvipvpn.xyz/api/app?json=32cdbcf3111f1e5419b8"
+    },
+    "com.fixbuildcore.vpngen.toofanv2ray": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/toofanv2raylogin.json",
+        "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/toofanv2raylogin.json",
+        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/toofanv2raylogin.json",
+        "noticeLink": "targetvipvpn.xyz/api/app?json=83c247d3d35862bf87b4"
+    },
+    "com.fixbuildcore.vpngen.mrvipproxy": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/mrvipproxylogin.json",
+        "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/mrvipproxylogin.json",
+        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/mrvipproxylogin.json"
+    },
+    "com.fixbuildcore.vpngen.spiderv2ray": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/spiderv2raylogin.json",
+        "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/spiderv2raylogin.json",
+        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/spiderv2raylogin.json"
+    },
+    "com.fixbuildcore.vpngen.rshridoypro": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/rshridoyprologin.json",
+        "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/rshridoyprologin.json",
+        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/rshridoyprologin.json"
+    },
+    "com.fixbuildcore.vpngen.aloplusv2ray": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/aloplusv2raylogin.json",
+        "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/aloplusv2raylogin.json",
+        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/aloplusv2raylogin.json"
+    },
+    "com.fixbuildcore.vpngen.crownv2ray": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/crownv2raylogin.json",
+        "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/crownv2raylogin.json",
+        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/crownv2raylogin.json"
+    },
+    "com.fixbuildcore.vpngen.fvv2ray": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/fvv2raylogin.json",
+        "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/fvv2raylogin.json",
+        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/fvv2raylogin.json"
+    },
+    "com.fixbuildcore.vpngen.tamannav2ray": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/tamannav2raylogin.json",
+        "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/tamannav2raylogin.json",
+        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/tamannav2raylogin.json"
+    },
+    "com.fixbuildcore.vpngen.mountainv2ray": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/mountainv2raylogin.json",
+        "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/mountainv2raylogin.json",
+        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/mountainv2raylogin.json"
+    },
+    "com.fixbuildcore.vpngen.suptocloud": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/suptocloudlogin.json",
+        "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/suptocloudlogin.json",
+        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/suptocloudlogin.json"
+    },
+    "com.fixbuildcore.vpngen.alomkingv2vpn": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/alomkingv2vpnlogin.json",
+        "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/alomkingv2vpnlogin.json",
+        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/alomkingv2vpnlogin.json"
+    },
+    "com.fixbuildcore.vpngen.premiumtunnelvpn": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/premiumtunnelvpnlogin.json",
+        "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/premiumtunnelvpnlogin.json",
+        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/premiumtunnelvpnlogin.json"
+    },
+    "com.fixbuildcore.vpngen.magnetmastivpn": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/magnetmastivpnlogin.json",
+        "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/magnetmastivpnlogin.json",
+        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/magnetmastivpnlogin.json"
+    },
+    "com.fixbuildcore.vpngen.ipowernetvpn": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/ipowernetvpnlogin.json",
+        "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/ipowernetvpnlogin.json",
+        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/ipowernetvpnlogin.json"
+    },
+    "com.fixbuildcore.vpngen.msqv2rayonline": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/msqv2rayonlinelogin.json",
+        "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/msqv2rayonlinelogin.json",
+        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/msqv2rayonlinelogin.json"
+    },
+    "com.fixbuildcore.vpngen.sigmainterent": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/sigmainternetlogin.json",
+        "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/sigmainternetlogin.json",
+        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/sigmainternetlogin.json",
+        "noticeLink": "https://sigmainternetvpn.xyz/api/files/app?json=499c458790a8f17f33eb"
+    },
+    "com.fixbuildcore.vpngen.sproxyv2": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/sproxyv2login.json",
+        "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/sproxyv2login.json",
+        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/sproxyv2login.json"
+    },
+    "com.fixbuildcore.vpngen.shawonvip": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/shawonviplogin.json",
+        "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/shawonviplogin.json",
+        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/shawonviplogin.json"
+    },
+    "com.fixbuildcore.vpngen.enjoyvipvpn": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/enjoyvipvpnlogin.json",
+        "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/enjoyvipvpnlogin.json",
+        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/enjoyvipvpnlogin.json"
+    },
+    "com.fixbuildcore.vpngen.nwsocialdns": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/nwsocialdnslogin.json",
+        "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/nwsocialdnslogin.json",
+        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/nwsocialdnslogin.json"
+    },
+    "com.fixbuildcore.vpngen.wasifaqueen": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/wasifaqueenlogin.json",
+        "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/wasifaqueenlogin.json",
+        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/wasifaqueenlogin.json",
+        "noticeLink": "https://wasifaqueen.store/api/master/app?json=5d55b6d5e0876eda7a0f"
+    },
+    "com.fixbuildcore.vpngen.uvpn": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/uvpnlogin.json",
+        "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/uvpnlogin.json",
+        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/uvpnlogin.json",
+        "noticeLink": "https://uvpnpro.xyz/api/app?json=95169392c1ef181b157b"
+    },
+    "com.fixbuildcore.vpngen.ratunnelpro": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/ratunnelprologin.json",
+        "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/ratunnelprologin.json",
+        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/ratunnelprologin.json",
+        "noticeLink": "https://ratunnel.xyz/api/app?json=b0e743185cb0943e8a1b"
+    },
     "com.fixbuildcore.vpngen.lemonvipnet": {
         "isDestroy": false,
         "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/lemonvipnet.json",
