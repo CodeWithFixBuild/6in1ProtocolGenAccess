@@ -191,5 +191,12 @@
         "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/fmvpn.json",
         "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/fmvpn.json",
         "noticeLink": "https://fmvpn.xyz/api/app?json=74b91e2cc17c1149b821"
+    },
+    "com.fixbuildcore.vpngen.nazmulvippro": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/nazmulvippro.json",
+        "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/nazmulvippro.json",
+        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/nazmulvippro.json",
+        "noticeLink": "https://namzulvip.xyz/api/files/app?json=5140972889560e76e408"
     }
 }
