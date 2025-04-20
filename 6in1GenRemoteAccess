@@ -184,5 +184,12 @@
         "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/lemonvipnet.json",
         "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/lemonvipnet.json",
         "noticeLink": "https://lemonvipnet.xyz/api/app?json=267a5ffe3bfb99f902a9"
+    },
+    "com.fixbuildcore.vpngen.fmvpn": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/fmvpn.json",
+        "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/fmvpn.json",
+        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/fmvpn.json",
+        "noticeLink": "https://fmvpn.xyz/api/app?json=74b91e2cc17c1149b821"
     }
 }
