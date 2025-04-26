@@ -53,7 +53,8 @@
         "isDestroy": false,
         "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/spiderv2raylogin.json",
         "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/spiderv2raylogin.json",
-        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/spiderv2raylogin.json"
+        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/spiderv2raylogin.json",
+        "noticeLink": "https://spider-v2ray.xyz/api/app?json=35d31a6dd45646d89e83"
     },
     "com.fixbuildcore.vpngen.rshridoypro": {
         "isDestroy": false,
