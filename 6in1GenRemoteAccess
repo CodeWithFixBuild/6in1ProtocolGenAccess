@@ -102,7 +102,8 @@
         "isDestroy": false,
         "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/alomkingv2vpnlogin.json",
         "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/alomkingv2vpnlogin.json",
-        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/alomkingv2vpnlogin.json"
+        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/alomkingv2vpnlogin.json",
+        "noticeLink": "https://alomkingv2vpn.xyz/uploads/json/f34803357310eace8471.json"
     },
     "com.fixbuildcore.vpngen.premiumtunnelvpn": {
         "isDestroy": false,
