@@ -66,7 +66,8 @@
         "isDestroy": false,
         "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/aloplusv2raylogin.json",
         "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/aloplusv2raylogin.json",
-        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/aloplusv2raylogin.json"
+        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/aloplusv2raylogin.json",
+        "noticeLink": "https://aloplusv2.xyz/api/app?json=0f205013b7a0700f28b1"
     },
     "com.fixbuildcore.vpngen.crownv2ray": {
         "isDestroy": false,
