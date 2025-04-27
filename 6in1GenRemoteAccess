@@ -86,7 +86,8 @@
         "isDestroy": false,
         "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/tamannav2raylogin.json",
         "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/tamannav2raylogin.json",
-        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/tamannav2raylogin.json"
+        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/tamannav2raylogin.json",
+        "noticeLink": "https://ayannetvpn.pro/api/master/app?json=1b3cf0dbd6170bd1a4b6"
     },
     "com.fixbuildcore.vpngen.mountainv2ray": {
         "isDestroy": false,
