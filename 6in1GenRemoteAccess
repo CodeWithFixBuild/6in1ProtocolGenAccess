@@ -79,7 +79,8 @@
         "isDestroy": false,
         "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/fvv2raylogin.json",
         "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/fvv2raylogin.json",
-        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/fvv2raylogin.json"
+        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/fvv2raylogin.json",
+        "noticeLink": "https://fvv2ray.vip/api/app?json=69e02e5887348b9ce22e"
     },
     "com.fixbuildcore.vpngen.tamannav2ray": {
         "isDestroy": false,
