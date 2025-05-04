@@ -223,5 +223,12 @@
         "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/polashv2ray.json",
         "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/polashv2ray.json",
         "noticeLink": "https://premiumvpn.space/api/files/app?json=b0755ceed74367ef80fd"
+    },
+    "com.fixbuildcore.vpngen.cloudeco": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/cloudeco.json",
+        "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/cloudeco.json",
+        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/cloudeco.json",
+        "noticeLink": "https://cdn-cloud.uk/api/files/app?json=d5b79542991b756f3f30"
     }
 }
