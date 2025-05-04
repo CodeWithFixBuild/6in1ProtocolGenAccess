@@ -216,5 +216,12 @@
         "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/premiumvpn.json",
         "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/premiumvpn.json",
         "noticeLink": "https://hasanpremium.xyz/api/files/app?json=f2673bcbb5bc65478494"
+    },
+    "com.fixbuildcore.vpngen.polashv2ray": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/polashv2ray.json",
+        "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/polashv2ray.json",
+        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/polashv2ray.json",
+        "noticeLink": "https://premiumvpn.space/api/files/app?json=b0755ceed74367ef80fd"
     }
 }
