@@ -102,7 +102,7 @@
         "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/suptocloudlogin.json",
         "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/suptocloudlogin.json",
         "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/suptocloudlogin.json",
-        "noticeLink": "https://supto-v2ray.xyz/uploads/json/d3a6368d34421dc4ceb7.json"
+        "noticeLink": "https://supto-cloud.xyz/api/app?json=d09b8f64c525fa99f414"
     },
     "com.fixbuildcore.vpngen.alomkingv2vpn": {
         "isDestroy": false,
