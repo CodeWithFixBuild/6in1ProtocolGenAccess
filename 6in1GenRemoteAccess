@@ -237,5 +237,12 @@
         "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/bcsv2ray.json",
         "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/bcsv2ray.json",
         "noticeLink": "https://bcsvpn.xyz/api/app?json=7cbe7d2afb90d93542f4"
+    },
+    "com.fixbuildcore.vpngen.rajabossv2ray": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/rajabossv2ray.json",
+        "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/rajabossv2ray.json",
+        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/rajabossv2ray.json",
+        "noticeLink": "https://rajabossvpn.xyz/api/app?json=7294ef8d4663d7144323"
     }
 }
