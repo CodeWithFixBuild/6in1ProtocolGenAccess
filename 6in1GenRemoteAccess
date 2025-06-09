@@ -245,7 +245,7 @@
         "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/rajabossv2ray.json",
         "noticeLink": "https://rajabossvpn.xyz/api/app?json=7294ef8d4663d7144323"
     },
-    "com.fixbuildcore.vpngen.rajabossv2ray": {
+    "com.fixbuildcore.vpngen.sauditunnel": {
         "isDestroy": false,
         "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/sauditunnel.json",
         "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/sauditunnel.json",
