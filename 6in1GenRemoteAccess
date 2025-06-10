@@ -251,5 +251,12 @@
         "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/sauditunnel.json",
         "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/sauditunnel.json",
         "noticeLink": "https://countrytunnel.xyz/api/app?json=e5393f77753e31b3f044"
+    },
+    "com.fixbuildcore.vpngen.msfastnet": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/msfastnet.json",
+        "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/msfastnet.json",
+        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/msfastnet.json",
+        "noticeLink": "https://ms-sifat.xyz/uploads/json/05974a4804bb69e6990d.json"
     }
 }
