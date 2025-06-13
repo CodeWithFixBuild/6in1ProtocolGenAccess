@@ -258,5 +258,12 @@
         "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/msfastnet.json",
         "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/msfastnet.json",
         "noticeLink": "https://ms-sifat.xyz/uploads/json/05974a4804bb69e6990d.json"
+    },
+    "com.fixbuildcore.vpngen.goldenv2ray": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/goldenv2ray.json",
+        "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/goldenv2ray.json",
+        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/goldenv2ray.json",
+        "noticeLink": "https://goldenv2ray.xyz/api/app?json=d25ad74a1b341345d82b"
     }
 }
