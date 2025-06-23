@@ -272,5 +272,12 @@
         "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/mgv2raywifi.json",
         "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/mgv2raywifi.json",
         "noticeLink": "https://mgtunnel.xyz/api/app?json=d489ca2266387e0d689c"
+    },
+    "com.fixbuildcore.vpngen.aakingv2ray": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/aakingv2ray.json",
+        "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/aakingv2ray.json",
+        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/aakingv2ray.json",
+        "noticeLink": "https://aavipnetvpn.xyz/api/app?json=1f7c22a872fd9afc9d09"
     }
 }
