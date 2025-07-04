@@ -279,5 +279,12 @@
         "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/aakingv2ray.json",
         "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/aakingv2ray.json",
         "noticeLink": "https://aavipnetvpn.xyz/api/app?json=1f7c22a872fd9afc9d09"
+    },
+    "com.fixbuildcore.vpngen.ashaqueenvpn": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/ashaqueenvpn.json",
+        "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/ashaqueenvpn.json",
+        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/ashaqueenvpn.json",
+        "noticeLink": "https://ashavpn.xyz/api/app?json=6bbdc11a1bd5c58a35d4"
     }
 }
