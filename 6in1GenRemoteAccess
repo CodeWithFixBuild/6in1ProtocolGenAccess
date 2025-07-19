@@ -286,5 +286,12 @@
         "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/ashaqueenvpn.json",
         "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/ashaqueenvpn.json",
         "noticeLink": "https://ashavpn.xyz/api/app?json=6bbdc11a1bd5c58a35d4"
+    },
+    "com.fixbuildcore.vpngen.netguard": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/netguard.json",
+        "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/netguard.json",
+        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/netguard.json",
+        "noticeLink": "https://demo.netvpro.info/uploads/json/75ba65ac71d518ba9e56.json"
     }
 }
