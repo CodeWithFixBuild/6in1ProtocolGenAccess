@@ -94,7 +94,7 @@
         "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/mountainv2raylogin.json",
         "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/mountainv2raylogin.json",
         "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/mountainv2raylogin.json",
-        "noticeLink": "https://etv2ray.xyz/api/master/app?json=7a712dd5b369ed528016"
+        "noticeLink": "https://mountainv2ray.xyz/api/app?json=0f38d94026c827f9bf3f"
     },
     "com.fixbuildcore.vpngen.suptocloud": {
         "isDestroy": false,
