@@ -315,5 +315,12 @@
         "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/smcnet.json",
         "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/smcnet.json",
         "noticeLink": "https://hayavpn.xyz/api/master/app?json=45ad12775db02e82143b"
+    },
+    "com.fixbuildcore.vpngen.privatesocialv2ray": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/privatesocialv2ray.json",
+        "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/privatesocialv2ray.json",
+        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/privatesocialv2ray.json",
+        "noticeLink": "https://riyadhksa.xyz/api/app?json=5b34586aebb161178361"
     }
 }
