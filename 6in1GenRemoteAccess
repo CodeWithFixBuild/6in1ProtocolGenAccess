@@ -322,5 +322,12 @@
         "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/privatesocialv2ray.json",
         "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/privatesocialv2ray.json",
         "noticeLink": "https://riyadhksa.xyz/api/app?json=5b34586aebb161178361"
+    },
+    "com.fixbuildcore.vpngen.ultramaxlite": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/ultramaxlite.json",
+        "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/ultramaxlite.json",
+        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/ultramaxlite.json",
+        "noticeLink": "https://ultramaxvpn.xyz/api/app?json=ce8694f2005ff2d4fecc"
     }
 }
