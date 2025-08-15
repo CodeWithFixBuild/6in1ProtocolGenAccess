@@ -336,5 +336,12 @@
         "postLink": "https://api.github.com/repos/xkingv2ray/6in1JsonUpdater/contents/xkingv2ray.json",
         "getLink": "https://api.github.com/repos/xkingv2ray/6in1JsonUpdater/contents/xkingv2ray.json",
         "noticeLink": "https://xkingvpn.xyz/api/files/app?json=814d1bf44f92176497c1"
+    },
+    "com.fixbuildcore.vpngen.sarkarplusvpn": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/Sarkartunnel/6in1JsonFixBuild/refs/heads/main/sarkarplusvpn.json",
+        "postLink": "https://api.github.com/repos/Sarkartunnel/6in1JsonFixBuild/contents/sarkarplusvpn.json",
+        "getLink": "https://api.github.com/repos/Sarkartunnel/6in1JsonFixBuild/contents/sarkarplusvpn.json",
+        "noticeLink": "https://sarkarplusv2ray.top/uploads/json/93c50f8eec588ed3d13b.json"
     }
 }
