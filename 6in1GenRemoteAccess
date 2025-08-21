@@ -350,5 +350,12 @@
         "postLink": "https://api.github.com/repos/RaselTthd/6in1JsonFixBuild/contents/hinetpro.json",
         "getLink": "https://api.github.com/repos/RaselTthd/6in1JsonFixBuild/contents/hinetpro.json",
         "noticeLink": "https://hinetpro.top/uploads/json/1c41d4bb38a1b0b8630f.json"
+    },
+    "com.fixbuildcore.vpngen.smv2ray": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/Smsiyam1/6in1JsonFixBuild/refs/heads/main/smv2ray.json",
+        "postLink": "https://api.github.com/repos/Smsiyam1/6in1JsonFixBuild/contents/smv2ray.json",
+        "getLink": "https://api.github.com/repos/Smsiyam1/6in1JsonFixBuild/contents/smv2ray.json",
+        "noticeLink": "https://smv2ray.xyz/api/app?json=45829e803ad26f9ab442"
     }
 }
