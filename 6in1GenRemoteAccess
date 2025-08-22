@@ -357,5 +357,12 @@
         "postLink": "https://api.github.com/repos/Smsiyam1/6in1JsonFixBuild/contents/smv2ray.json",
         "getLink": "https://api.github.com/repos/Smsiyam1/6in1JsonFixBuild/contents/smv2ray.json",
         "noticeLink": "https://smv2ray.xyz/api/app?json=45829e803ad26f9ab442"
+    },
+    "com.fixbuildcore.vpngen.rhtunnelv2ray": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/Riyajvaii/6in1JsonFixBuild/refs/heads/main/rhtunnelv2ray.json",
+        "postLink": "https://api.github.com/repos/Riyajvaii/6in1JsonFixBuild/contents/rhtunnelv2ray.json",
+        "getLink": "https://api.github.com/repos/Riyajvaii/6in1JsonFixBuild/contents/rhtunnelv2ray.json",
+        "noticeLink": "https://rhtunnelv2ray.xyz/api/master/app?json=fffc5e91c174fea9c4b5"
     }
 }
