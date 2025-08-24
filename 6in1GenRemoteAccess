@@ -364,5 +364,12 @@
         "postLink": "https://api.github.com/repos/Riyajvaii/6in1JsonFixBuild/contents/rhtunnelv2ray.json",
         "getLink": "https://api.github.com/repos/Riyajvaii/6in1JsonFixBuild/contents/rhtunnelv2ray.json",
         "noticeLink": "https://rhtunnelvipv2ray.xyz/api/files/app?json=ed0a6e36b5bccfaf25b8"
+    },
+    "com.fixbuildcore.vpngen.rhtunnelv2ray": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/Pkselleradmin/6in1JsonFixBuild/refs/heads/main/firenetv2ray.json",
+        "postLink": "https://api.github.com/repos/Pkselleradmin/6in1JsonFixBuild/contents/firenetv2ray.json",
+        "getLink": "https://api.github.com/repos/Pkselleradmin/6in1JsonFixBuild/contents/firenetv2ray.json",
+        "noticeLink": "https://pksellerv2ray.xyz/api/files/app?json=a14030db312e826bc90e"
     }
 }
