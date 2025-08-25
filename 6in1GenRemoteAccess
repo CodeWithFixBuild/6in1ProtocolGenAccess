@@ -371,5 +371,12 @@
         "postLink": "https://api.github.com/repos/Pkselleradmin/6in1JsonFixBuild/contents/firenetv2ray.json",
         "getLink": "https://api.github.com/repos/Pkselleradmin/6in1JsonFixBuild/contents/firenetv2ray.json",
         "noticeLink": "https://pksellerv2ray.xyz/api/files/app?json=a14030db312e826bc90e"
+    },
+    "com.fixbuildcore.vpngen.rj5gv2ray": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/Rj5ginternet/6in1JsonFixBuild/refs/heads/main/rj5gv2ray.json",
+        "postLink": "https://api.github.com/repos/Rj5ginternet/6in1JsonFixBuild/contents/rj5gv2ray.json",
+        "getLink": "https://api.github.com/repos/Rj5ginternet/6in1JsonFixBuild/contents/rj5gv2ray.json",
+        "noticeLink": "https://rj5ginternet.xyz/api/files/app?json=f5bca52a4a23b2cfc476"
     }
 }
