@@ -385,5 +385,12 @@
         "postLink": "https://api.github.com/repos/KmTunnel48/6in1JsonFixBuild/contents/kmtunnelvip.json",
         "getLink": "https://api.github.com/repos/KmTunnel48/6in1JsonFixBuild/contents/kmtunnelvip.json",
         "noticeLink": "https://kmtunnel.xyz/api/files/app?json=a5e7f6af07e28393cb9d"
+    },
+    "com.fixbuildcore.vpngen.satunnelv2ray": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/Tunnel25/6in1JsonFixBuild/refs/heads/main/satunnelv2ray.json",
+        "postLink": "https://api.github.com/repos/Tunnel25/6in1JsonFixBuild/contents/satunnelv2ray.json",
+        "getLink": "https://api.github.com/repos/Tunnel25/6in1JsonFixBuild/contents/satunnelv2ray.json",
+        "noticeLink": "https://satunnelvpn.xyz/api/app?json=8abd59ef354708e0973a"
     }
 }
