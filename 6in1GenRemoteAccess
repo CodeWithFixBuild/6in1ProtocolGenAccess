@@ -7,6 +7,13 @@
         "getLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/fastray.json"
         
     },
+    "com.fixbuildcore.vpngen.cloudlinkv2ray": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/CloudLinkV2Ray.json",
+        "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/CloudLinkV2Ray.json",
+        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/CloudLinkV2Ray.json",
+        "noticeLink": "https://supersitevpn.xyz/api/app?json=3e88752dffb1b72168be"
+    },
     "com.fixbuildcore.vpngen.starlinkvpngen": {
         "isDestroy": false,
         "configLink": "https://raw.githubusercontent.com/FixBuildWorld/JsonUpdater/refs/heads/main/starlinkvpngen.json",
