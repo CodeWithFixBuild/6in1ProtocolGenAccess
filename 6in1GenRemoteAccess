@@ -399,5 +399,12 @@
         "postLink": "https://api.github.com/repos/Tunnel25/6in1JsonFixBuild/contents/satunnelv2ray.json",
         "getLink": "https://api.github.com/repos/Tunnel25/6in1JsonFixBuild/contents/satunnelv2ray.json",
         "noticeLink": "https://satunnelvpn.xyz/api/app?json=8abd59ef354708e0973a"
+    },
+    "com.fixbuildcore.vpngen.blackhorsev2ray": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/txxugs8/6in1JsonFixBuild/refs/heads/main/blackhorsev2ray.json",
+        "postLink": "https://api.github.com/repos/txxugs8/6in1JsonFixBuild/contents/blackhorsev2ray.json",
+        "getLink": "https://api.github.com/repos/txxugs8/6in1JsonFixBuild/contents/blackhorsev2ray.json",
+        "noticeLink": "https://blackhorsev2ray.xyz/api/app?json=720e98018532c33f6ce0"
     }
 }
