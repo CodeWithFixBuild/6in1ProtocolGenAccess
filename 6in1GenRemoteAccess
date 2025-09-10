@@ -406,5 +406,12 @@
         "postLink": "https://api.github.com/repos/txxugs8/6in1JsonFixBuild/contents/blackhorsev2ray.json",
         "getLink": "https://api.github.com/repos/txxugs8/6in1JsonFixBuild/contents/blackhorsev2ray.json",
         "noticeLink": "https://blackhorsev2ray.xyz/api/app?json=720e98018532c33f6ce0"
+    },
+    "com.fixbuildcore.vpngen.sftunnelv2ray": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/Shakilmolla100/6in1JsonFixBuild/refs/heads/main/sftunnelv2ray.json",
+        "postLink": "https://api.github.com/repos/Shakilmolla100/6in1JsonFixBuild/contents/sftunnelv2ray.json",
+        "getLink": "https://api.github.com/repos/Shakilmolla100/6in1JsonFixBuild/contents/sftunnelv2ray.json",
+        "noticeLink": "https://blackhorsev2ray.xyz/api/app?json=720e98018532c33f6ce0"
     }
 }
