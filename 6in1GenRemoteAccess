@@ -407,11 +407,11 @@
         "getLink": "https://api.github.com/repos/txxugs8/6in1JsonFixBuild/contents/blackhorsev2ray.json",
         "noticeLink": "https://blackhorsev2ray.xyz/api/app?json=720e98018532c33f6ce0"
     },
-    "com.fixbuildcore.vpngen.sftunnelv2ray": {
+    "com.fixbuildcore.vpngen.liontheking": {
         "isDestroy": false,
-        "configLink": "https://raw.githubusercontent.com/Shakilmolla100/6in1JsonFixBuild/refs/heads/main/sftunnelv2ray.json",
-        "postLink": "https://api.github.com/repos/Shakilmolla100/6in1JsonFixBuild/contents/sftunnelv2ray.json",
-        "getLink": "https://api.github.com/repos/Shakilmolla100/6in1JsonFixBuild/contents/sftunnelv2ray.json",
-        "noticeLink": "https://blackhorsev2ray.xyz/api/app?json=720e98018532c33f6ce0"
+        "configLink": "https://raw.githubusercontent.com/alirajaboss/6in1JsonFixBuild/refs/heads/main/liontheking.json",
+        "postLink": "https://api.github.com/repos/alirajaboss/6in1JsonFixBuild/contents/liontheking.json",
+        "getLink": "https://api.github.com/repos/alirajaboss/6in1JsonFixBuild/contents/liontheking.json",
+        "noticeLink": "https://lionisking.xyz/api/master/app?json=c8edaaafc563c8a34357"
     }
 }
