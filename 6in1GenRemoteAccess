@@ -57,9 +57,9 @@
     },
     "com.fixbuildcore.vpngen.spiderv2ray": {
         "isDestroy": false,
-        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/spiderv2raylogin.json",
-        "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/spiderv2raylogin.json",
-        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/spiderv2raylogin.json",
+        "configLink": "https://raw.githubusercontent.com/SpiderVsm/6in1JsonUpdater/refs/heads/main/spiderv2ray.json",
+        "postLink": "https://api.github.com/repos/SpiderVsm/6in1JsonUpdater/contents/spiderv2ray.json",
+        "getLink": "https://api.github.com/repos/SpiderVsm/6in1JsonUpdater/contents/spiderv2ray.json",
         "noticeLink": "https://spider-v2ray.xyz/api/app?json=35d31a6dd45646d89e83"
     },
     "com.fixbuildcore.vpngen.rshridoypro": {
