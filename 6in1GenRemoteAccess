@@ -413,5 +413,12 @@
         "postLink": "https://api.github.com/repos/alirajaboss/6in1JsonFixBuild/contents/liontheking.json",
         "getLink": "https://api.github.com/repos/alirajaboss/6in1JsonFixBuild/contents/liontheking.json",
         "noticeLink": "https://lionisking.xyz/api/master/app?json=caf0e9ed657c05180115"
+    },
+    "com.fixbuildcore.vpngen.ghostv2ray": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/Sultanbrandd/6in1JsonFixBuild/refs/heads/main/ghostv2ray.json",
+        "postLink": "https://api.github.com/repos/Sultanbrandd/6in1JsonFixBuild/contents/ghostv2ray.json",
+        "getLink": "https://api.github.com/repos/Sultanbrandd/6in1JsonFixBuild/contents/ghostv2ray.json",
+        "noticeLink": "https://honeyfast.xyz/uploads/json/02fcbd6d425bca7bab0c.json"
     }
 }
