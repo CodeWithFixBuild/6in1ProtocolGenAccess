@@ -14,6 +14,13 @@
         "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/CloudLinkV2Ray.json",
         "noticeLink": "https://supersitevpn.xyz/api/app?json=3e88752dffb1b72168be"
     },
+    "com.fixbuildcore.vpngen.protonv2ray": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/FixBuildx11/6in1JsonFixBuild/refs/heads/main/protonv2ray.json",
+        "postLink": "https://api.github.com/repos/FixBuildx11/6in1JsonFixBuild/contents/protonv2ray.json",
+        "getLink": "https://api.github.com/repos/FixBuildx11/6in1JsonFixBuild/contents/protonv2ray.json",
+        "noticeLink": "https://supersitevpn.xyz/api/app?json=e5f18cc27ddf435b4149"
+    },
     "com.fixbuildcore.vpngen.starlinkvpngen": {
         "isDestroy": false,
         "configLink": "https://raw.githubusercontent.com/FixBuildWorld/JsonUpdater/refs/heads/main/starlinkvpngen.json",
