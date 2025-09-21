@@ -427,5 +427,12 @@
         "postLink": "https://api.github.com/repos/Sultanbrandd/6in1JsonFixBuild/contents/ghostv2ray.json",
         "getLink": "https://api.github.com/repos/Sultanbrandd/6in1JsonFixBuild/contents/ghostv2ray.json",
         "noticeLink": "https://honeyfast.xyz/uploads/json/02fcbd6d425bca7bab0c.json"
+    },
+    "com.fixbuildcore.vpngen.tanzinav2ray": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/Tunnel25/6in1JsonFixBuild/refs/heads/main/tanzinav2ray.json",
+        "postLink": "https://api.github.com/repos/Tunnel25/6in1JsonFixBuild/contents/tanzinav2ray.json",
+        "getLink": "https://api.github.com/repos/Tunnel25/6in1JsonFixBuild/contents/tanzinav2ray.json",
+        "noticeLink": "https://ratunnel.xyz/api/app?json=e3aa17ce7be17416b90b"
     }
 }
