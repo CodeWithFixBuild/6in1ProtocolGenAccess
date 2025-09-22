@@ -434,5 +434,12 @@
         "postLink": "https://api.github.com/repos/Tunnel25/6in1JsonFixBuild/contents/tanzinav2ray.json",
         "getLink": "https://api.github.com/repos/Tunnel25/6in1JsonFixBuild/contents/tanzinav2ray.json",
         "noticeLink": "https://ratunnel.xyz/api/app?json=e3aa17ce7be17416b90b"
+    },
+    "com.fixbuildcore.vpngen.xprimevpn": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/Tunnel25/6in1JsonFixBuild/refs/heads/main/xprimevpn.json",
+        "postLink": "https://api.github.com/repos/Tunnel25/6in1JsonFixBuild/contents/xprimevpn.json",
+        "getLink": "https://api.github.com/repos/Tunnel25/6in1JsonFixBuild/contents/xprimevpn.json",
+        "noticeLink": "https://x-primevpn.com/uploads/json/18c691f13f80efe1584f.json"
     }
 }
