@@ -441,5 +441,12 @@
         "postLink": "https://api.github.com/repos/redweebvpn-sys/6in1JsonFixBuild/contents/xprimevpn.json",
         "getLink": "https://api.github.com/repos/redweebvpn-sys/6in1JsonFixBuild/contents/xprimevpn.json",
         "noticeLink": "https://x-primevpn.com/uploads/json/18c691f13f80efe1584f.json"
+    },
+    "com.fixbuildcore.vpngen.aptech": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/nayonsharmajh00-ops/6in1JsonFixBuild/refs/heads/main/aptech.json",
+        "postLink": "https://api.github.com/repos/nayonsharmajh00-ops/6in1JsonFixBuild/contents/aptech.json",
+        "getLink": "https://api.github.com/repos/nayonsharmajh00-ops/6in1JsonFixBuild/contents/aptech.json",
+        "noticeLink": "https://pstunnel.xyz/uploads/json/e2c9f84c417f7b4be84f.json"
     }
 }
