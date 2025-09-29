@@ -55,6 +55,13 @@
         "getLink": "https://api.github.com/repos/toofanv2admin/6in1JsonUpdater/contents/toofanv2ray.json",
         "noticeLink": "targetvipvpn.xyz/api/app?json=83c247d3d35862bf87b4"
     },
+    "com.fixbuildcore.vpngen.toofansshvpn": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/toofanv2admin/6in1JsonUpdater/refs/heads/main/toofansshvpn.json",
+        "postLink": "https://api.github.com/repos/toofanv2admin/6in1JsonUpdater/contents/toofansshvpn.json",
+        "getLink": "https://api.github.com/repos/toofanv2admin/6in1JsonUpdater/contents/toofansshvpn.json",
+        "noticeLink": "https://vipnetvpn.xyz/api/app?json=fdbe96d4acdb07bc240d"
+    },
     "com.fixbuildcore.vpngen.mrvipproxy": {
         "isDestroy": false,
         "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/mrvipproxylogin.json",
