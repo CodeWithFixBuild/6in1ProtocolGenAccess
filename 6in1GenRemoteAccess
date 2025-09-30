@@ -469,5 +469,12 @@
         "postLink": "https://api.github.com/repos/SylnetDev/6in1JsonFixBuild/contents/cloudv2rayvip.json",
         "getLink": "https://api.github.com/repos/SylnetDev/6in1JsonFixBuild/contents/cloudv2rayvip.json",
         "noticeLink": "https://cloudv2rayvip.xyz/uploads/json/c3b1d27f4da582a27876.json"
+    },
+    "com.fixbuildcore.vpngen.rajonv2ray": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/rajonvipbdt/6in1JsonFixBuild/refs/heads/main/rajonv2ray.json",
+        "postLink": "https://api.github.com/repos/rajonvipbdt/6in1JsonFixBuild/contents/rajonv2ray.json",
+        "getLink": "https://api.github.com/repos/rajonvipbdt/6in1JsonFixBuild/contents/rajonv2ray.json",
+        "noticeLink": "https://rajonvip.top/uploads/json/87802394467b35679300.json"
     }
 }
