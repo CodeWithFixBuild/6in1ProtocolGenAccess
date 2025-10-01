@@ -130,7 +130,7 @@
         "postLink": "https://api.github.com/repos/mountainssh/6in1JsonFixBuild/contents/mountainsshvpn.json",
         "getLink": "https://api.github.com/repos/mountainssh/6in1JsonFixBuild/contents/mountainsshvpn.json",
         "noticeLink": "https://mountainv2ray.xyz/api/app?json=0f38d94026c827f9bf3f"
-    }
+    },
     "com.fixbuildcore.vpngen.suptocloud": {
         "isDestroy": false,
         "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/suptocloudlogin.json",
