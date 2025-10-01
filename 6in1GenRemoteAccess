@@ -123,7 +123,7 @@
         "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/mountainv2raylogin.json",
         "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/mountainv2raylogin.json",
         "noticeLink": "https://mountainv2ray.xyz/api/app?json=0f38d94026c827f9bf3f"
-    },,
+    },
     "com.fixbuildcore.vpngen.mountainsshvpn": {
         "isDestroy": false,
         "configLink": "https://raw.githubusercontent.com/mountainssh/6in1JsonFixBuild/refs/heads/main/mountainsshvpn.json",
