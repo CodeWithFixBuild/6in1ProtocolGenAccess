@@ -497,5 +497,12 @@
         "postLink": "https://api.github.com/repos/Foyezpathan/6in1JsonFixBuild/contents/trustlinkv2ray.json",
         "getLink": "https://api.github.com/repos/Foyezpathan/6in1JsonFixBuild/contents/trustlinkv2ray.json",
         "noticeLink": "https://kingsoftvpn.xyz/api/master/app?json=500af7b7d93cf3ca2ef3"
+    },
+    "com.fixbuildcore.vpngen.forexvpn": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/mdafranhossen/6in1JsonFixBuild/refs/heads/main/forexvpn.json",
+        "postLink": "https://api.github.com/repos/mdafranhossen/6in1JsonFixBuild/contents/forexvpn.json",
+        "getLink": "https://api.github.com/repos/mdafranhossen/6in1JsonFixBuild/contents/forexvpn.json",
+        "noticeLink": "https://forexvn.xyz/api/files/app?json=07d2c08f407231d829ec"
     }
 }
