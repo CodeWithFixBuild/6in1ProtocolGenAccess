@@ -165,6 +165,13 @@
         "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/ipowernetvpnlogin.json",
         "noticeLink": "https://ipowernet.xyz/api/app?json=324d843861e4a2d76075"
     },
+    "com.fixbuildcore.vpngen.ipowersshvpn": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/ipowershh/6in1JsonFixBuild/refs/heads/main/ipowersshvpn.json",
+        "postLink": "https://api.github.com/repos/ipowershh/6in1JsonFixBuild/contents/ipowersshvpn.json",
+        "getLink": "https://api.github.com/repos/ipowershh/6in1JsonFixBuild/contents/ipowersshvpn.json",
+        "noticeLink": "https://ipowervpnproxy.xyz/api/app?json=637d8ed12379e45f4a7d"
+    },
     "com.fixbuildcore.vpngen.msqv2rayonline": {
         "isDestroy": false,
         "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/msqv2rayonlinelogin.json",
