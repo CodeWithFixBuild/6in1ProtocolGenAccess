@@ -103,6 +103,13 @@
         "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/crownv2raylogin.json",
         "noticeLink": "https://drimevpn.xyz/api/app?json=a4b4356f41c5a06a560f"
     },
+    "com.fixbuildcore.vpngen.bhtunnelssh": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/bhtunnel102/6in1JsonFixBuild/refs/heads/main/bhtunnelssh.json",
+        "postLink": "https://api.github.com/repos/bhtunnel102/6in1JsonFixBuild/contents/bhtunnelssh.json",
+        "getLink": "https://api.github.com/repos/bhtunnel102/6in1JsonFixBuild/contents/bhtunnelssh.json",
+        "noticeLink": "https://bhtunnel.xyz/api/app?json=9702087dc9a8b10bb140"
+    },
     "com.fixbuildcore.vpngen.fvv2ray": {
         "isDestroy": false,
         "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/fvv2raylogin.json",
