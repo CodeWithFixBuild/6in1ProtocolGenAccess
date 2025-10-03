@@ -96,6 +96,13 @@
         "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/aloplusv2raylogin.json",
         "noticeLink": "https://aloplusv2.xyz/api/app?json=0f205013b7a0700f28b1"
     },
+    "com.fixbuildcore.vpngen.aloplusssh": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/asraf667/6in1JsonFixBuild/refs/heads/main/aloplusssh.json",
+        "postLink": "https://api.github.com/repos/asraf667/6in1JsonFixBuild/contents/aloplusssh.json",
+        "getLink": "https://api.github.com/repos/asraf667/6in1JsonFixBuild/contents/aloplusssh.json",
+        "noticeLink": "https://aloplusv2.xyz/api/app?json=0f205013b7a0700f28b1"
+    },
     "com.fixbuildcore.vpngen.crownv2ray": {
         "isDestroy": false,
         "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/crownv2raylogin.json",
