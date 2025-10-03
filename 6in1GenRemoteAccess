@@ -511,5 +511,12 @@
         "postLink": "https://api.github.com/repos/mdafranhossen/6in1JsonFixBuild/contents/forexvpn.json",
         "getLink": "https://api.github.com/repos/mdafranhossen/6in1JsonFixBuild/contents/forexvpn.json",
         "noticeLink": "https://forexvn.xyz/api/files/app?json=07d2c08f407231d829ec"
+    },
+    "com.fixbuildcore.vpngen.nayemvipv2ray": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/Nayem3859/6in1JsonFixBuild/refs/heads/main/nayemvipv2ray.json",
+        "postLink": "https://api.github.com/repos/Nayem3859/6in1JsonFixBuild/contents/nayemvipv2ray.json",
+        "getLink": "https://api.github.com/repos/Nayem3859/6in1JsonFixBuild/contents/nayemvipv2ray.json",
+        "noticeLink": "https://nayemv2ray.xyz/uploads/json/b45a8207e90a3a6448a0.json"
     }
 }
