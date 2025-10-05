@@ -518,5 +518,12 @@
         "postLink": "https://api.github.com/repos/Nayem3859/6in1JsonFixBuild/contents/nayemvipv2ray.json",
         "getLink": "https://api.github.com/repos/Nayem3859/6in1JsonFixBuild/contents/nayemvipv2ray.json",
         "noticeLink": "https://nayemv2ray.xyz/uploads/json/b45a8207e90a3a6448a0.json"
+    },
+    "com.fixbuildcore.vpngen.magnetprovpn": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/Bdtopup1/6in1JsonFixBuild/refs/heads/main/magnetprovpn.json",
+        "postLink": "https://api.github.com/repos/Bdtopup1/6in1JsonFixBuild/contents/magnetprovpn.json",
+        "getLink": "https://api.github.com/repos/Bdtopup1/6in1JsonFixBuild/contents/magnetprovpn.json",
+        "noticeLink": "https://magnetvpn.site/api/files/app?json=c74d2449cbd11e25c622"
     }
 }
