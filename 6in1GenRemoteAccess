@@ -484,6 +484,13 @@
         "getLink": "https://api.github.com/repos/redweebvpn-sys/6in1JsonFixBuild/contents/xprimevpn.json",
         "noticeLink": "https://x-primevpn.com/uploads/json/18c691f13f80efe1584f.json"
     },
+    "com.fixbuildcore.vpngen.primevpn": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/redweebvpn-sys/6in1JsonFixBuild/refs/heads/main/primevpn.json",
+        "postLink": "https://api.github.com/repos/redweebvpn-sys/6in1JsonFixBuild/contents/primevpn.json",
+        "getLink": "https://api.github.com/repos/redweebvpn-sys/6in1JsonFixBuild/contents/primevpn.json",
+        "noticeLink": "https://xprimevpn.com/api/app?json=8e438054c5735a5fe072"
+    },
     "com.fixbuildcore.vpngen.aptech": {
         "isDestroy": false,
         "configLink": "https://raw.githubusercontent.com/nayonsharmajh00-ops/6in1JsonFixBuild/refs/heads/main/aptech.json",
