@@ -212,6 +212,13 @@
         "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/shawonviplogin.json",
         "noticeLink": "https://todaynet.top/uploads/json/d101492337b3660ac85c.json"
     },
+    "com.fixbuildcore.vpngen.shawonssh": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/SALAM592/6in1JsonFixBuild/refs/heads/main/shawonssh.json",
+        "postLink": "https://api.github.com/repos/SALAM592/6in1JsonFixBuild/contents/shawonssh.json",
+        "getLink": "https://api.github.com/repos/SALAM592/6in1JsonFixBuild/contents/shawonssh.json",
+        "noticeLink": "https://onetouchvipvpn.xyz/api/app?json=05976fede47d90aaf148"
+    },
     "com.fixbuildcore.vpngen.enjoyvipvpn": {
         "isDestroy": false,
         "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/enjoyvipvpnlogin.json",
