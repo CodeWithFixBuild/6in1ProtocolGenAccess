@@ -539,5 +539,12 @@
         "postLink": "https://api.github.com/repos/Bdtopup1/6in1JsonFixBuild/contents/magnetprovpn.json",
         "getLink": "https://api.github.com/repos/Bdtopup1/6in1JsonFixBuild/contents/magnetprovpn.json",
         "noticeLink": "https://magnetvpn.site/api/files/app?json=c74d2449cbd11e25c622"
+    },
+    "com.fixbuildcore.vpngen.goabirv2ray": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/sohel539/6in1JsonFixBuild/refs/heads/main/goabirv2ray.json",
+        "postLink": "https://api.github.com/repos/sohel539/6in1JsonFixBuild/contents/goabirv2ray.json",
+        "getLink": "https://api.github.com/repos/sohel539/6in1JsonFixBuild/contents/goabirv2ray.json",
+        "noticeLink": "https://abirv2ray.xyz/api/app?json=ee974d85d3beae5d6db7"
     }
 }
