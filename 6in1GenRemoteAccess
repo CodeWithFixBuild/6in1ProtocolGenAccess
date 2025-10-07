@@ -547,11 +547,11 @@
         "getLink": "https://api.github.com/repos/sohel539/6in1JsonFixBuild/contents/goabirv2ray.json",
         "noticeLink": "https://abirv2ray.xyz/api/app?json=ee974d85d3beae5d6db7"
     },
-    "com.fixbuildcore.vpngen.topnetvpn": {
+    "com.fixbuildcore.vpngen.stspecialv2ray": {
         "isDestroy": false,
-        "configLink": "https://raw.githubusercontent.com/hasan991/6in1JsonFixBuild/refs/heads/main/topnetvpn.json",
-        "postLink": "https://api.github.com/repos/hasan991/6in1JsonFixBuild/contents/topnetvpn.json",
-        "getLink": "https://api.github.com/repos/hasan991/6in1JsonFixBuild/contents/topnetvpn.json",
-        "noticeLink": "https://goldvpnpro.xyz/api/app?json=25aeb1ef67d5e3d7db41"
+        "configLink": "https://raw.githubusercontent.com/stspecial120/6in1JsonFixBuild/refs/heads/main/stspecialv2ray.json",
+        "postLink": "https://api.github.com/repos/stspecial120/6in1JsonFixBuild/contents/stspecialv2ray.json",
+        "getLink": "https://api.github.com/repos/stspecial120/6in1JsonFixBuild/contents/stspecialv2ray.json",
+        "noticeLink": "https://stvipvpn.xyz/api/app?json=0d133116b074c376f049"
     }
 }
