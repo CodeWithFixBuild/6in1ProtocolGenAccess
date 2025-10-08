@@ -553,5 +553,12 @@
         "postLink": "https://api.github.com/repos/stspecial120/6in1JsonFixBuild/contents/stspecialv2ray.json",
         "getLink": "https://api.github.com/repos/stspecial120/6in1JsonFixBuild/contents/stspecialv2ray.json",
         "noticeLink": "https://stvipvpn.xyz/api/app?json=0d133116b074c376f049"
+    },
+    "com.fixbuildcore.vpngen.asfirev2ray": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/astechnology123/6in1JsonFixBuild/refs/heads/main/asfirev2ray.json",
+        "postLink": "https://api.github.com/repos/astechnology123/6in1JsonFixBuild/contents/asfirev2ray.json",
+        "getLink": "https://api.github.com/repos/astechnology123/6in1JsonFixBuild/contents/asfirev2ray.json",
+        "noticeLink": "https://asfirev2ray.xyz/api/files/app?json=6678db742a09a529622f"
     }
 }
