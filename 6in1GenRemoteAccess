@@ -560,5 +560,12 @@
         "postLink": "https://api.github.com/repos/astechnology123/6in1JsonFixBuild/contents/asfirev2ray.json",
         "getLink": "https://api.github.com/repos/astechnology123/6in1JsonFixBuild/contents/asfirev2ray.json",
         "noticeLink": "https://asfirev2ray.xyz/api/files/app?json=6678db742a09a529622f"
+    },
+    "com.fixbuildcore.vpngen.lightv2ray": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/noyond746-create/6in1JsonFixBuild/refs/heads/main/lightv2ray.json",
+        "postLink": "https://api.github.com/repos/noyond746-create/6in1JsonFixBuild/contents/lightv2ray.json",
+        "getLink": "https://api.github.com/repos/noyond746-create/6in1JsonFixBuild/contents/lightv2ray.json",
+        "noticeLink": "https://lightv2ray.xyz/api/app?json=ebeaca4509c427f59aa9"
     }
 }
