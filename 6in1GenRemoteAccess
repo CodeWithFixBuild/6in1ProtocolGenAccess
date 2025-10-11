@@ -484,6 +484,13 @@
         "getLink": "https://api.github.com/repos/Tunnel25/6in1JsonFixBuild/contents/tanzinav2ray.json",
         "noticeLink": "https://ratunnel.xyz/api/app?json=e3aa17ce7be17416b90b"
     },
+    "com.fixbuildcore.vpngen.ratunnelssh": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/Tunnel25/6in1JsonFixBuild/refs/heads/main/ratunnelssh.json",
+        "postLink": "https://api.github.com/repos/Tunnel25/6in1JsonFixBuild/contents/ratunnelssh.json",
+        "getLink": "https://api.github.com/repos/Tunnel25/6in1JsonFixBuild/contents/ratunnelssh.json",
+        "noticeLink": "https://tanzinavpn.xyz/api/app?json=76240735a70c87554537"
+    },
     "com.fixbuildcore.vpngen.xprimevpn": {
         "isDestroy": false,
         "configLink": "https://raw.githubusercontent.com/redweebvpn-sys/6in1JsonFixBuild/refs/heads/main/xprimevpn.json",
