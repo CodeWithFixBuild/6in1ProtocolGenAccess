@@ -62,6 +62,13 @@
         "getLink": "https://api.github.com/repos/toofanv2admin/6in1JsonUpdater/contents/toofansshvpn.json",
         "noticeLink": "https://vipnetvpn.xyz/api/app?json=fdbe96d4acdb07bc240d"
     },
+    "com.fixbuildcore.vpngen.goldisking": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/toofanv2admin/6in1JsonUpdater/refs/heads/main/goldisking.json",
+        "postLink": "https://api.github.com/repos/toofanv2admin/6in1JsonUpdater/contents/goldisking.json",
+        "getLink": "https://api.github.com/repos/toofanv2admin/6in1JsonUpdater/contents/goldisking.json",
+        "noticeLink": "https://goldvipvpn.xyz/api/app?json=02727d1b0e509121f518"
+    },
     "com.fixbuildcore.vpngen.mrvipproxy": {
         "isDestroy": false,
         "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/mrvipproxylogin.json",
