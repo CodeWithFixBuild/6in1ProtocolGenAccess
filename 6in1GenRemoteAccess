@@ -588,5 +588,12 @@
         "postLink": "https://api.github.com/repos/noyond746-create/6in1JsonFixBuild/contents/lightv2ray.json",
         "getLink": "https://api.github.com/repos/noyond746-create/6in1JsonFixBuild/contents/lightv2ray.json",
         "noticeLink": "https://lightv2ray.xyz/api/app?json=ebeaca4509c427f59aa9"
+    },
+    "com.fixbuildcore.vpngen.hasan5gv2ray": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/Hasan123450987/6in1JsonFixBuild/refs/heads/main/hasan5gv2ray.json",
+        "postLink": "https://api.github.com/repos/Hasan123450987/6in1JsonFixBuild/contents/hasan5gv2ray.json",
+        "getLink": "https://api.github.com/repos/Hasan123450987/6in1JsonFixBuild/contents/hasan5gv2ray.json",
+        "noticeLink": "https://hasan5gvip.xyz/api/app?json=f0e37725229de49cab88"
     }
 }
