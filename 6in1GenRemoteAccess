@@ -510,7 +510,7 @@
         "configLink": "https://raw.githubusercontent.com/redweebvpn-sys/6in1JsonFixBuild/refs/heads/main/xprimevpn.json",
         "postLink": "https://api.github.com/repos/redweebvpn-sys/6in1JsonFixBuild/contents/xprimevpn.json",
         "getLink": "https://api.github.com/repos/redweebvpn-sys/6in1JsonFixBuild/contents/xprimevpn.json",
-        "noticeLink": "https://x-primevpn.com/uploads/json/18c691f13f80efe1584f.json"
+        "noticeLink": "https://xprimevpn.com/api/app?json=a3b04fa7fd85bd688383"
     },
     "com.fixbuildcore.vpngen.primevpn": {
         "isDestroy": false,
