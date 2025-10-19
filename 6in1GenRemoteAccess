@@ -602,5 +602,12 @@
         "postLink": "https://api.github.com/repos/Kausarahmed636/6in1JsonFixBuild/contents/frsv2ray.json",
         "getLink": "https://api.github.com/repos/Kausarahmed636/6in1JsonFixBuild/contents/frsv2ray.json",
         "noticeLink": "https://frsvpn.xyz/api/app?json=c6902526b37c84a7801f"
+    },
+    "com.fixbuildcore.vpngen.jahaidv2ray": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/Abukayesh1/6in1JsonFixBuild/refs/heads/main/jahaidv2ray.json",
+        "postLink": "https://api.github.com/repos/Abukayesh1/6in1JsonFixBuild/contents/jahaidv2ray.json",
+        "getLink": "https://api.github.com/repos/Abukayesh1/6in1JsonFixBuild/contents/jahaidv2ray.json",
+        "noticeLink": "https://wellcomevpn.xyz/api/app?json=ebfc43342d1136b962f4"
     }
 }
