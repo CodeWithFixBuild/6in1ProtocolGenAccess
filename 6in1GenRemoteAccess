@@ -595,5 +595,12 @@
         "postLink": "https://api.github.com/repos/Hasan123450987/6in1JsonFixBuild/contents/hasan5gv2ray.json",
         "getLink": "https://api.github.com/repos/Hasan123450987/6in1JsonFixBuild/contents/hasan5gv2ray.json",
         "noticeLink": "https://hasan5gvip.xyz/api/app?json=f0e37725229de49cab88"
+    },
+    "com.fixbuildcore.vpngen.frsv2ray": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/Kausarahmed636/6in1JsonFixBuild/refs/heads/main/frsv2ray.json",
+        "postLink": "https://api.github.com/repos/Kausarahmed636/6in1JsonFixBuild/contents/frsv2ray.json",
+        "getLink": "https://api.github.com/repos/Kausarahmed636/6in1JsonFixBuild/contents/frsv2ray.json",
+        "noticeLink": "https://frsvpn.xyz/api/app?json=c6902526b37c84a7801f"
     }
 }
