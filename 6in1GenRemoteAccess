@@ -609,5 +609,12 @@
         "postLink": "https://api.github.com/repos/Abukayesh1/6in1JsonFixBuild/contents/jahaidv2ray.json",
         "getLink": "https://api.github.com/repos/Abukayesh1/6in1JsonFixBuild/contents/jahaidv2ray.json",
         "noticeLink": "https://wellcomevpn.xyz/api/app?json=ebfc43342d1136b962f4"
+    },
+    "com.fixbuildcore.vpngen.ansumanv2ray": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/Ansumanvip/6in1JsonFixBuild/refs/heads/main/ansumanv2ray.json",
+        "postLink": "https://api.github.com/repos/Ansumanvip/6in1JsonFixBuild/contents/ansumanv2ray.json",
+        "getLink": "https://api.github.com/repos/Ansumanvip/6in1JsonFixBuild/contents/ansumanv2ray.json",
+        "noticeLink": "https://ansumanvip.xyz/api/app?json=92c72f81c03c3e7af34d"
     }
 }
