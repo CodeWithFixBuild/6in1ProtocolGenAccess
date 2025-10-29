@@ -71,9 +71,9 @@
     },
     "com.fixbuildcore.vpngen.mrvipproxy": {
         "isDestroy": false,
-        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/mrvipproxylogin.json",
-        "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/mrvipproxylogin.json",
-        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/mrvipproxylogin.json",
+        "configLink": "https://raw.githubusercontent.com/MRViPPROXY/6in1JsonFixBuild/refs/heads/main/mrvipXproxy.json",
+        "postLink": "https://api.github.com/repos/MRViPPROXY/6in1JsonFixBuild/contents/mrvipXproxy.json",
+        "getLink": "https://api.github.com/repos/MRViPPROXY/6in1JsonFixBuild/contents/mrvipXproxy.json",
         "noticeLink": "https://mistervip.xyz/api/app?json=129fd1e60371ab03d943"
     },
     "com.fixbuildcore.vpngen.spiderv2ray": {
