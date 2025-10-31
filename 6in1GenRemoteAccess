@@ -174,16 +174,16 @@
     },
     "com.fixbuildcore.vpngen.jimflexvpn": {
         "isDestroy": false,
-        "configLink": "https://raw.githubusercontent.com/ipowershh/6in1JsonUpdater/refs/heads/main/magnetmastivpnlogin.json",
-        "postLink": "https://api.github.com/repos/ipowershh/6in1JsonUpdater/contents/magnetmastivpnlogin.json",
-        "getLink": "https://api.github.com/repos/ipowershh/6in1JsonUpdater/contents/magnetmastivpnlogin.json",
+        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/magnetmastivpnlogin.json",
+        "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/magnetmastivpnlogin.json",
+        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/magnetmastivpnlogin.json",
         "noticeLink": "https://jimvpn.xyz/uploads/json/c6dab8c0c2c048dfedbb.json"
     },
     "com.fixbuildcore.vpngen.ipowernetvpn": {
         "isDestroy": false,
-        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonFixBuild/refs/heads/main/ipowernetXvpn.json",
-        "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonFixBuild/contents/ipowernetXvpn.json",
-        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonFixBuild/contents/ipowernetXvpn.json",
+        "configLink": "https://raw.githubusercontent.com/ipowershh/6in1JsonFixBuild/refs/heads/main/ipowernetXvpn.json",
+        "postLink": "https://api.github.com/repos/ipowershh/6in1JsonFixBuild/contents/ipowernetXvpn.json",
+        "getLink": "https://api.github.com/repos/ipowershh/6in1JsonFixBuild/contents/ipowernetXvpn.json",
         "noticeLink": "https://ipowernet.xyz/api/app?json=324d843861e4a2d76075"
     },
     "com.fixbuildcore.vpngen.ipowersshvpn": {
