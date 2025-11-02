@@ -262,9 +262,9 @@
     },
     "com.fixbuildcore.vpngen.lemonvipnet": {
         "isDestroy": false,
-        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/lemonvipnet.json",
-        "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/lemonvipnet.json",
-        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/lemonvipnet.json",
+        "configLink": "https://raw.githubusercontent.com/kawser520fa520x/6in1JsonFixBuild/refs/heads/main/lemonvipXnet.json",
+        "postLink": "https://api.github.com/repos/kawser520fa520x/6in1JsonFixBuild/contents/lemonvipXnet.json",
+        "getLink": "https://api.github.com/repos/kawser520fa520x/6in1JsonFixBuild/contents/lemonvipXnet.json",
         "noticeLink": "https://lemonvipnet.xyz/api/app?json=267a5ffe3bfb99f902a9"
     },
     "com.fixbuildcore.vpngen.fmvpn": {
