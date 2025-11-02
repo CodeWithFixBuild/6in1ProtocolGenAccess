@@ -367,9 +367,9 @@
     },
     "com.fixbuildcore.vpngen.nextv2ray": {
         "isDestroy": false,
-        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/nextv2ray.json",
-        "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/nextv2ray.json",
-        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/nextv2ray.json",
+        "configLink": "https://raw.githubusercontent.com/karim3431/6in1JsonFixBuild/refs/heads/main/nextXv2ray.json",
+        "postLink": "https://api.github.com/repos/karim3431/6in1JsonFixBuild/contents/nextXv2ray.json",
+        "getLink": "https://api.github.com/repos/karim3431/6in1JsonFixBuild/contents/nextXv2ray.json",
         "noticeLink": "https://kingabdullah.xyz/api/master/app?json=800a98bf92d5be220886"
     },
     "com.fixbuildcore.vpngen.hayavpn": {
