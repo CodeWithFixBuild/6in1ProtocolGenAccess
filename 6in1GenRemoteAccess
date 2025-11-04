@@ -276,9 +276,9 @@
     },
     "com.fixbuildcore.vpngen.nazmulvippro": {
         "isDestroy": false,
-        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/nazmulvippro.json",
-        "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/nazmulvippro.json",
-        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/nazmulvippro.json",
+        "configLink": "https://raw.githubusercontent.com/nazmulvippro45/6in1JsonFixBuild/refs/heads/main/nazmulvipXpro.json",
+        "postLink": "https://api.github.com/repos/nazmulvippro45/6in1JsonFixBuild/contents/nazmulvipXpro.json",
+        "getLink": "https://api.github.com/repos/nazmulvippro45/6in1JsonFixBuild/contents/nazmulvipXpro.json",
         "noticeLink": "https://namzulvip.xyz/api/files/app?json=5140972889560e76e408"
     },
     "com.fixbuildcore.vpngen.premiumvpn": {
