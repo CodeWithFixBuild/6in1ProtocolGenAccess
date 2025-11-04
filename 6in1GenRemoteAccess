@@ -228,9 +228,9 @@
     },
     "com.fixbuildcore.vpngen.enjoyvipvpn": {
         "isDestroy": false,
-        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/enjoyvipvpnlogin.json",
-        "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/enjoyvipvpnlogin.json",
-        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/enjoyvipvpnlogin.json",
+        "configLink": "https://raw.githubusercontent.com/shahinvai88/6in1JsonFixBuild/refs/heads/main/enjoyvipXvpn.json",
+        "postLink": "https://api.github.com/repos/shahinvai88/6in1JsonFixBuild/contents/enjoyvipXvpn.json",
+        "getLink": "https://api.github.com/repos/shahinvai88/6in1JsonFixBuild/contents/enjoyvipXvpn.json",
         "noticeLink": "https://injoyvipvpn.xyz/api/app?json=17c5989be9f6929cf14f"
     },
     "com.fixbuildcore.vpngen.nwsocialdns": {
