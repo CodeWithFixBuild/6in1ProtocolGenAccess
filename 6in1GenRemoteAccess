@@ -339,9 +339,9 @@
     },
     "com.fixbuildcore.vpngen.mgv2raywifi": {
         "isDestroy": false,
-        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/mgv2raywifi.json",
-        "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/mgv2raywifi.json",
-        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/mgv2raywifi.json",
+        "configLink": "https://raw.githubusercontent.com/MdRafibd/6in1JsonFixBuild/refs/heads/main/mgv2rayXwifi.json",
+        "postLink": "https://api.github.com/repos/MdRafibd/6in1JsonFixBuild/contents/mgv2rayXwifi.json",
+        "getLink": "https://api.github.com/repos/MdRafibd/6in1JsonFixBuild/contents/mgv2rayXwifi.json",
         "noticeLink": "https://mgtunnel.xyz/api/app?json=d489ca2266387e0d689c"
     },
     "com.fixbuildcore.vpngen.aakingv2ray": {
