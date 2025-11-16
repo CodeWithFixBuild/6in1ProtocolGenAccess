@@ -154,9 +154,9 @@
     },
     "com.fixbuildcore.vpngen.suptocloud": {
         "isDestroy": false,
-        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/suptocloudlogin.json",
-        "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/suptocloudlogin.json",
-        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/suptocloudlogin.json",
+        "configLink": "https://raw.githubusercontent.com/Suptocloud/6in1JsonFixBuild/refs/heads/main/suptoXcloud.json",
+        "postLink": "https://api.github.com/repos/Suptocloud/6in1JsonFixBuild/contents/suptoXcloud.json",
+        "getLink": "https://api.github.com/repos/Suptocloud/6in1JsonFixBuild/contents/suptoXcloud.json",
         "noticeLink": "https://suptocloudvpn.xyz/api/app?json=d09b8f64c525fa99f414"
     },
     "com.fixbuildcore.vpngen.alomkingv2vpn": {
