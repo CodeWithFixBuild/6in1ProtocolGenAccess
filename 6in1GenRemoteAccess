@@ -563,9 +563,9 @@
     },
     "com.fixbuildcore.vpngen.goabirv2ray": {
         "isDestroy": false,
-        "configLink": "https://raw.githubusercontent.com/sohel539/6in1JsonFixBuild/refs/heads/main/goabirv2ray.json",
-        "postLink": "https://api.github.com/repos/sohel539/6in1JsonFixBuild/contents/goabirv2ray.json",
-        "getLink": "https://api.github.com/repos/sohel539/6in1JsonFixBuild/contents/goabirv2ray.json",
+        "configLink": "https://raw.githubusercontent.com/sohel539/6in1JsonFixBuild/refs/heads/main/goabirXv2ray.json",
+        "postLink": "https://api.github.com/repos/sohel539/6in1JsonFixBuild/contents/goabirXv2ray.json",
+        "getLink": "https://api.github.com/repos/sohel539/6in1JsonFixBuild/contents/goabirXv2ray.json",
         "noticeLink": "https://abirv2ray.xyz/api/app?json=ee974d85d3beae5d6db7"
     },
     "com.fixbuildcore.vpngen.stspecialv2ray": {
