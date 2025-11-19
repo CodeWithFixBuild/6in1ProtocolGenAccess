@@ -521,9 +521,9 @@
     },
     "com.fixbuildcore.vpngen.aptech": {
         "isDestroy": false,
-        "configLink": "https://raw.githubusercontent.com/nayonsharmajh00-ops/6in1JsonFixBuild/refs/heads/main/aptech.json",
-        "postLink": "https://api.github.com/repos/nayonsharmajh00-ops/6in1JsonFixBuild/contents/aptech.json",
-        "getLink": "https://api.github.com/repos/nayonsharmajh00-ops/6in1JsonFixBuild/contents/aptech.json",
+        "configLink": "https://raw.githubusercontent.com/nayonsharmajh00-ops/6in1JsonFixBuild/refs/heads/main/apXtech.json",
+        "postLink": "https://api.github.com/repos/nayonsharmajh00-ops/6in1JsonFixBuild/contents/apXtech.json",
+        "getLink": "https://api.github.com/repos/nayonsharmajh00-ops/6in1JsonFixBuild/contents/apXtech.json",
         "noticeLink": "https://pstunnel.xyz/uploads/json/e2c9f84c417f7b4be84f.json"
     },
     "com.fixbuildcore.vpngen.cloudv2rayvip": {
