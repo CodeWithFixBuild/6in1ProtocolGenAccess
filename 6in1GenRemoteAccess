@@ -402,9 +402,9 @@
     },
     "com.fixbuildcore.vpngen.xkingv2ray": {
         "isDestroy": false,
-        "configLink": "https://raw.githubusercontent.com/xkingv2ray/6in1JsonUpdater/refs/heads/main/xkingv2ray.json",
-        "postLink": "https://api.github.com/repos/xkingv2ray/6in1JsonUpdater/contents/xkingv2ray.json",
-        "getLink": "https://api.github.com/repos/xkingv2ray/6in1JsonUpdater/contents/xkingv2ray.json",
+        "configLink": "https://raw.githubusercontent.com/st90465/6in1JsonFixBuild/refs/heads/main/xkingv2ray.json",
+        "postLink": "https://api.github.com/repos/st90465/6in1JsonFixBuild/contents/xkingv2ray.json",
+        "getLink": "https://api.github.com/repos/st90465/6in1JsonFixBuild/contents/xkingv2ray.json",
         "noticeLink": "https://xkingvpn.xyz/api/files/app?json=814d1bf44f92176497c1"
     },
     "com.fixbuildcore.vpngen.sarkarplusvpn": {
