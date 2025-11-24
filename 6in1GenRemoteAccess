@@ -311,9 +311,9 @@
     },
     "com.fixbuildcore.vpngen.bcsv2ray": {
         "isDestroy": false,
-        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/bcsv2ray.json",
-        "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/bcsv2ray.json",
-        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/bcsv2ray.json",
+        "configLink": "https://raw.githubusercontent.com/kawserv2/6in1JsonFixBuild/refs/heads/main/bcsXv2ray.json",
+        "postLink": "https://api.github.com/repos/kawserv2/6in1JsonFixBuild/contents/bcsXv2ray.json",
+        "getLink": "https://api.github.com/repos/kawserv2/6in1JsonFixBuild/contents/bcsXv2ray.json",
         "noticeLink": "https://bcsvpn.xyz/api/app?json=7cbe7d2afb90d93542f4"
     },
     "com.fixbuildcore.vpngen.rajabossv2ray": {
