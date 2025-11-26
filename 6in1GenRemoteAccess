@@ -381,9 +381,9 @@
     },
     "com.fixbuildcore.vpngen.hayavpn": {
         "isDestroy": false,
-        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/hayavpn.json",
-        "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/hayavpn.json",
-        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/hayavpn.json",
+        "configLink": "https://raw.githubusercontent.com/Hossain13-hub/6in1JsonFixBuild/refs/heads/main/hayaXvpn.json",
+        "postLink": "https://api.github.com/repos/Hossain13-hub/6in1JsonFixBuild/contents/hayaXvpn.json",
+        "getLink": "https://api.github.com/repos/Hossain13-hub/6in1JsonFixBuild/contents/hayaXvpn.json",
         "noticeLink": "https://hayavpn.xyz/api/master/app?json=45ad12775db02e82143b"
     },
     "com.fixbuildcore.vpngen.smcnet": {
