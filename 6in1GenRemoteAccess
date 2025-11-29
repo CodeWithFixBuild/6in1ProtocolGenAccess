@@ -202,9 +202,10 @@
     },
     "com.fixbuildcore.vpngen.msqv2rayonline": {
         "isDestroy": false,
-        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/msqv2rayonlinelogin.json",
-        "postLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/msqv2rayonlinelogin.json",
-        "getLink": "https://api.github.com/repos/FixBuildWorld/6in1JsonUpdater/contents/msqv2rayonlinelogin.json"
+        "configLink": "https://raw.githubusercontent.com/mamun28121988/6in1JsonFixBuild/refs/heads/main/msqv2rayXonline.json",
+        "postLink": "https://api.github.com/repos/mamun28121988/6in1JsonFixBuild/contents/msqv2rayXonline.json",
+        "getLink": "https://api.github.com/repos/mamun28121988/6in1JsonFixBuild/contents/msqv2rayXonline.json",
+        "noticeLink": "https://msqv2rayonline.xyz/api/app?json=2b367fa413e34dacbfbb"
     },
     "com.fixbuildcore.vpngen.sigmainterent": {
         "isDestroy": false,
