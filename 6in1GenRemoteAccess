@@ -424,9 +424,9 @@
     },
     "com.fixbuildcore.vpngen.hinetpro": {
         "isDestroy": false,
-        "configLink": "https://raw.githubusercontent.com/RaselTthd/6in1JsonFixBuild/refs/heads/main/hinetpro.json",
-        "postLink": "https://api.github.com/repos/RaselTthd/6in1JsonFixBuild/contents/hinetpro.json",
-        "getLink": "https://api.github.com/repos/RaselTthd/6in1JsonFixBuild/contents/hinetpro.json",
+        "configLink": "https://raw.githubusercontent.com/RaselTthd/6in1JsonFixBuild/refs/heads/main/hinetXpro.json",
+        "postLink": "https://api.github.com/repos/RaselTthd/6in1JsonFixBuild/contents/hinetXpro.json",
+        "getLink": "https://api.github.com/repos/RaselTthd/6in1JsonFixBuild/contents/hinetXpro.json",
         "noticeLink": "https://hinetpro.top/uploads/json/1c41d4bb38a1b0b8630f.json"
     },
     "com.fixbuildcore.vpngen.smv2ray": {
