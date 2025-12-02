@@ -30,9 +30,9 @@
     },
     "com.fixbuildcore.vpngen.netifyXv2ray": {
         "isDestroy": false,
-        "configLink": "https://raw.githubusercontent.com/FixBuildx11/6in1JsonFixBuild/refs/heads/main/netifyXv2ray.json",
+        "configLink": "https://raw.githubusercontent.com/FixBuildx11/6in1JsonFixBuild/refs/heads/main/netifyv2ray.json",
         "postLink": "https://api.github.com/repos/FixBuildx11/6in1JsonFixBuild/contents/netifyXv2ray.json",
-        "getLink": "https://api.github.com/repos/FixBuildx11/6in1JsonFixBuild/contents/netifyv2ray.json",
+        "getLink": "https://api.github.com/repos/FixBuildx11/6in1JsonFixBuild/contents/netifyXv2ray.json",
         "noticeLink": "https://supersitevpn.xyz/api/app?json=6e98ae0f8b9b460c72c9"
     },
     "com.fixbuildcore.vpngen.starlinkvpngen": {
