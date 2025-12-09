@@ -473,10 +473,10 @@
     },
     "com.fixbuildcore.vpngen.kmtunnelvip": {
         "isDestroy": false,
-        "configLink": "https://raw.githubusercontent.com/KmTunnel48/6in1JsonFixBuild/refs/heads/main/kmtunnelvip.json",
-        "postLink": "https://api.github.com/repos/KmTunnel48/6in1JsonFixBuild/contents/kmtunnelvip.json",
-        "getLink": "https://api.github.com/repos/KmTunnel48/6in1JsonFixBuild/contents/kmtunnelvip.json",
-        "noticeLink": "https://kmtunnel.xyz/api/files/app?json=a5e7f6af07e28393cb9d"
+        "configLink": "https://raw.githubusercontent.com/KmTunnel48/6in1JsonFixBuild/refs/heads/main/cktunnelv2ray.json",
+        "postLink": "https://api.github.com/repos/KmTunnel48/6in1JsonFixBuild/contents/cktunnelv2ray.json",
+        "getLink": "https://api.github.com/repos/KmTunnel48/6in1JsonFixBuild/contents/cktunnelv2ray.json",
+        "noticeLink": "https://cktunnel.xyz/api/app?json=35fc1f3c9849d81e92c4"
     },
     "com.fixbuildcore.vpngen.satunnelv2ray": {
         "isDestroy": false,
