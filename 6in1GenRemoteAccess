@@ -638,5 +638,12 @@
         "postLink": "https://api.github.com/repos/rajonvipbdt/6in1JsonFixBuild/contents/rajonXv2ray.json",
         "getLink": "https://api.github.com/repos/rajonvipbdt/6in1JsonFixBuild/contents/rajonXv2ray.json",
         "noticeLink": "https://rajonvip.top/uploads/json/87802394467b35679300.json"
+    },
+    "com.fixbuildcore.vpngen.lordsextrav2ray": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/Lords125/6in1JsonFixBuild/refs/heads/main/lordsextrav2ray.json",
+        "postLink": "https://api.github.com/repos/Lords125/6in1JsonFixBuild/contents/lordsextrav2ray.json",
+        "getLink": "https://api.github.com/repos/Lords125/6in1JsonFixBuild/contents/lordsextrav2ray.json",
+        "noticeLink": "https://lordsv2ray.xyz/api/app?json=fa3bbc1c9f0d803d2ddf"
     }
 }
