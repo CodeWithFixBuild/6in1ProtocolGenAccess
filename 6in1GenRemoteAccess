@@ -360,7 +360,7 @@
         "noticeLink": "https://mgtunnel.xyz/api/app?json=d489ca2266387e0d689c"
     },
     "com.fixbuildcore.vpngen.aakingv2ray": {
-        "isDestroy": false,
+        "isDestroy": true,
         "configLink": "https://raw.githubusercontent.com/iqbalhussain8573/6in1JsonFixBuild/refs/heads/main/aakingv2ray.json",
         "postLink": "https://api.github.com/repos/iqbalhussain8573/6in1JsonFixBuild/contents/aakingv2ray.json",
         "getLink": "https://api.github.com/repos/iqbalhussain8573/6in1JsonFixBuild/contents/aakingv2ray.json",
