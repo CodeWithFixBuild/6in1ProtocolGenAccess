@@ -645,5 +645,12 @@
         "postLink": "https://api.github.com/repos/Lords125/6in1JsonFixBuild/contents/lordsextrav2ray.json",
         "getLink": "https://api.github.com/repos/Lords125/6in1JsonFixBuild/contents/lordsextrav2ray.json",
         "noticeLink": "https://lordsv2ray.xyz/api/app?json=fa3bbc1c9f0d803d2ddf"
+    },
+    "com.fixbuildcore.vpngen.kamrulv2ray": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/mdkamrulhasan25/6in1JsonFixBuild/refs/heads/main/kamrulv2ray.json",
+        "postLink": "https://api.github.com/repos/mdkamrulhasan25/6in1JsonFixBuild/contents/kamrulv2ray.json",
+        "getLink": "https://api.github.com/repos/mdkamrulhasan25/6in1JsonFixBuild/contents/kamrulv2ray.json",
+        "noticeLink": "https://kamrulv2ray.xyz/api/app?json=65408d5a1ccc088eed6f"
     }
 }
