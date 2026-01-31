@@ -652,5 +652,12 @@
         "postLink": "https://api.github.com/repos/mdkamrulhasan25/6in1JsonFixBuild/contents/kamrulv2ray.json",
         "getLink": "https://api.github.com/repos/mdkamrulhasan25/6in1JsonFixBuild/contents/kamrulv2ray.json",
         "noticeLink": "https://kamrulv2ray.xyz/api/app?json=65408d5a1ccc088eed6f"
+    },
+    "com.fixbuildcore.vpngen.vpnmarketbd": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/Tunnel25/6in1JsonFixBuild/refs/heads/main/vpnmarketbd.json",
+        "postLink": "https://api.github.com/repos/Tunnel25/6in1JsonFixBuild/contents/vpnmarketbd.json",
+        "getLink": "https://api.github.com/repos/Tunnel25/6in1JsonFixBuild/contents/vpnmarketbd.json",
+        "noticeLink": "https://vpnmarketbd.xyz/api/app?json=15c3ceef24c75ebc3b36"
     }
 }
