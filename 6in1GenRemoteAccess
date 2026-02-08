@@ -16,7 +16,7 @@
     },
     "com.fixbuildcore.vpngen.cloudlinkNv2ray": {
         "isDestroy": false,
-        "configLink": "https://raw.githubusercontent.com/FixBuildx11/6in1JsonFixBuild/refs/heads/main/CloudLinkV2Ray.json",
+        "configLink": "https://raw.githubusercontent.com/FixBuildx11/6in1JsonFixBuild/refs/heads/main/CloudLinkNV2Ray.json",
         "postLink": "https://api.github.com/repos/FixBuildx11/6in1JsonFixBuild/contents/CloudLinkNV2Ray.json",
         "getLink": "https://api.github.com/repos/FixBuildx11/6in1JsonFixBuild/contents/CloudLinkNV2Ray.json",
         "noticeLink": "https://supersitevpn.xyz/api/app?json=3e88752dffb1b72168be"
