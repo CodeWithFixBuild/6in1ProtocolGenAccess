@@ -385,7 +385,7 @@
         "configLink": "https://raw.githubusercontent.com/Ashaquue1234/6in1JsonFixBuild/refs/heads/main/buyboxv2ray.json",
         "postLink": "https://api.github.com/repos/Ashaquue1234/6in1JsonFixBuild/contents/buyboxv2ray.json",
         "getLink": "https://api.github.com/repos/Ashaquue1234/6in1JsonFixBuild/contents/buyboxv2ray.json",
-        "noticeLink": "https://ashavpn.xyz/api/app?json=6bbdc11a1bd5c58a35d4"
+        "noticeLink": "https://busyboxvpn.xyz/api/app?json=358ab71085c5f8b34d16"
     },
     "com.fixbuildcore.vpngen.netguard": {
         "isDestroy": false,
