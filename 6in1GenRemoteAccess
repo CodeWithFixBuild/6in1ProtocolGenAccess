@@ -118,6 +118,13 @@
         "getLink": "https://api.github.com/repos/SpiderVsm/6in1JsonUpdater/contents/spidersshvpn.json",
         "noticeLink": "https://spidernetvpn.xyz/api/app?json=82f31c732ec29d1ecba7"
     },
+    "com.fixbuildcore.vpngen.vsmkingv2ray": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/SpiderVsm/6in1JsonUpdater/refs/heads/main/vsmkingv2ray.json",
+        "postLink": "https://api.github.com/repos/SpiderVsm/6in1JsonUpdater/contents/vsmkingv2ray.json",
+        "getLink": "https://api.github.com/repos/SpiderVsm/6in1JsonUpdater/contents/vsmkingv2ray.json",
+        "noticeLink": "https://spidernetvpn.xyz/api/app?json=82f31c732ec29d1ecba7"
+    },
     "com.fixbuildcore.vpngen.rshridoypro": {
         "isDestroy": false,
         "configLink": "https://raw.githubusercontent.com/FixBuildWorld/6in1JsonUpdater/refs/heads/main/rshridoyprologin.json",
