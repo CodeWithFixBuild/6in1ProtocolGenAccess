@@ -680,5 +680,12 @@
         "postLink": "https://api.github.com/repos/Tunnel25/6in1JsonFixBuild/contents/vpnmarketbd.json",
         "getLink": "https://api.github.com/repos/Tunnel25/6in1JsonFixBuild/contents/vpnmarketbd.json",
         "noticeLink": "https://vpnmarketbd.xyz/api/app?json=15c3ceef24c75ebc3b36"
+    },
+    "com.fixbuildcore.vpngen.ericavpn": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/erica101540/6in1JsonFixBuild/refs/heads/main/ericavpn.json",
+        "postLink": "https://api.github.com/repos/erica101540/6in1JsonFixBuild/contents/ericavpn.json",
+        "getLink": "https://api.github.com/repos/erica101540/6in1JsonFixBuild/contents/ericavpn.json",
+        "noticeLink": "https://ericavpn.xyz/api/app?json=470d55c2429518c85303"
     }
 }
