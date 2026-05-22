@@ -682,7 +682,7 @@
         "getLink": "https://api.github.com/repos/erica101540/6in1JsonFixBuild/contents/ericavpn.json",
         "noticeLink": "https://ericavpn.xyz/api/app?json=470d55c2429518c85303"
     },
-    "com.fixbuildcore.vpngen.ericavpn": {
+    "com.fixbuildcore.vpngen.expatsshvpn": {
         "isDestroy": false,
         "configLink": "https://raw.githubusercontent.com/expatzone/6in1JsonFixBuild/refs/heads/main/expatsshvpn.json",
         "postLink": "https://api.github.com/repos/expatzone/6in1JsonFixBuild/contents/expatsshvpn.json",
