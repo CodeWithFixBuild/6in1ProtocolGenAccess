@@ -49,12 +49,6 @@
         "getLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/starlinkvpngen.json"
         
     },
-    "com.fixbuildcore.vpngen.mobilyv2raygen": {
-        "isDestroy": false,
-        "configLink": "https://raw.githubusercontent.com/FixBuildWorld/JsonUpdater/refs/heads/main/mobilyv2ray.json",
-        "postLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/mobilyv2ray.json",
-        "getLink": "https://api.github.com/repos/FixBuildWorld/JsonUpdater/contents/mobilyv2ray.json"
-    },
     "com.fixbuildcore.vpngen.noorvipvpn": {
         "isDestroy": false,
         "configLink": "https://raw.githubusercontent.com/NoorGit12/6in1JsonFixBuild/refs/heads/main/nooorXvipnet.json",
@@ -687,5 +681,12 @@
         "postLink": "https://api.github.com/repos/erica101540/6in1JsonFixBuild/contents/ericavpn.json",
         "getLink": "https://api.github.com/repos/erica101540/6in1JsonFixBuild/contents/ericavpn.json",
         "noticeLink": "https://ericavpn.xyz/api/app?json=470d55c2429518c85303"
+    },
+    "com.fixbuildcore.vpngen.ericavpn": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/expatzone/6in1JsonFixBuild/refs/heads/main/expatsshvpn.json",
+        "postLink": "https://api.github.com/repos/expatzone/6in1JsonFixBuild/contents/expatsshvpn.json",
+        "getLink": "https://api.github.com/repos/expatzone/6in1JsonFixBuild/contents/expatsshvpn.json",
+        "noticeLink": "https://expatvpn.top/uploads/json/b63ddb8d486728afa21b.json"
     }
 }
