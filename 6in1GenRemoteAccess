@@ -691,9 +691,9 @@
     },
     "com.fixbuildcore.vpngen.homev2ray": {
         "isDestroy": false,
-        "configLink": "https://raw.githubusercontent.com/expatzone/6in1JsonFixBuild/refs/heads/main/homev2ray.json",
-        "postLink": "https://api.github.com/repos/expatzone/6in1JsonFixBuild/contents/homev2ray.json",
-        "getLink": "https://api.github.com/repos/expatzone/6in1JsonFixBuild/contents/homev2ray.json",
+        "configLink": "https://raw.githubusercontent.com/asraf667/6in1JsonFixBuild/refs/heads/main/homev2ray.json",
+        "postLink": "https://api.github.com/repos/asraf667/6in1JsonFixBuild/contents/homev2ray.json",
+        "getLink": "https://api.github.com/repos/asraf667/6in1JsonFixBuild/contents/homev2ray.json",
         "noticeLink": "https://homemaxv2ray.xyz/api/app?json=d01a064f15284e1c8030"
     }
 }
