@@ -695,5 +695,12 @@
         "postLink": "https://api.github.com/repos/asraf667/6in1JsonFixBuild/contents/homev2ray.json",
         "getLink": "https://api.github.com/repos/asraf667/6in1JsonFixBuild/contents/homev2ray.json",
         "noticeLink": "https://homemaxv2ray.xyz/api/app?json=d01a064f15284e1c8030"
+    },
+    "com.fixbuildcore.vpngen.billanetv2ray": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/Billa50/6in1JsonFixBuild/refs/heads/main/billanetv2ray.json",
+        "postLink": "https://api.github.com/repos/Billa50/6in1JsonFixBuild/contents/billanetv2ray.json",
+        "getLink": "https://api.github.com/repos/Billa50/6in1JsonFixBuild/contents/billanetv2ray.json",
+        "noticeLink": "https://billanetvpn.xyz/api/app?json=0d02c6ecec2d58df8eea"
     }
 }
