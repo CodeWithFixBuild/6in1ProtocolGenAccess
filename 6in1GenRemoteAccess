@@ -702,5 +702,12 @@
         "postLink": "https://api.github.com/repos/Billa50/6in1JsonFixBuild/contents/billanetv2ray.json",
         "getLink": "https://api.github.com/repos/Billa50/6in1JsonFixBuild/contents/billanetv2ray.json",
         "noticeLink": "https://billanetvpn.xyz/api/app?json=0d02c6ecec2d58df8eea"
+    },
+    "com.fixbuildcore.vpngen.pinkiv2ray": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/MdRafibd/6in1JsonFixBuild/refs/heads/main/pinkiv2ray.json",
+        "postLink": "https://api.github.com/repos/MdRafibd/6in1JsonFixBuild/contents/pinkiv2ray.json",
+        "getLink": "https://api.github.com/repos/MdRafibd/6in1JsonFixBuild/contents/pinkiv2ray.json",
+        "noticeLink": "https://pinkiv2ray.xyz/api/files/app?json=119f20b44ef2cb681c78"
     }
 }
