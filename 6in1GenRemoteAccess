@@ -709,5 +709,12 @@
         "postLink": "https://api.github.com/repos/MdRafibd/6in1JsonFixBuild/contents/pinkiv2ray.json",
         "getLink": "https://api.github.com/repos/MdRafibd/6in1JsonFixBuild/contents/pinkiv2ray.json",
         "noticeLink": "https://pinkiv2ray.xyz/api/files/app?json=119f20b44ef2cb681c78"
+    },
+    "com.fixbuildcore.vpngen.mmv2rayvpn": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/mizan454545/6in1JsonFixBuild/refs/heads/main/mmv2rayvpn.json",
+        "postLink": "https://api.github.com/repos/mizan454545/6in1JsonFixBuild/contents/mmv2rayvpn.json",
+        "getLink": "https://api.github.com/repos/mizan454545/6in1JsonFixBuild/contents/mmv2rayvpn.json",
+        "noticeLink": "https://mmexpress.xyz/api/app?json=0cd19ac2b4399e0d6e0c"
     }
 }
