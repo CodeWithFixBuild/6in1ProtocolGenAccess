@@ -716,5 +716,12 @@
         "postLink": "https://api.github.com/repos/mizan454545/6in1JsonFixBuild/contents/mmv2rayvpn.json",
         "getLink": "https://api.github.com/repos/mizan454545/6in1JsonFixBuild/contents/mmv2rayvpn.json",
         "noticeLink": "https://mmexpress.xyz/api/app?json=0cd19ac2b4399e0d6e0c"
+    },
+    "com.fixbuildcore.vpngen.skglobalvpn": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/aynulnet/6in1JsonFixBuild/refs/heads/main/skglobalvpn.json",
+        "postLink": "https://api.github.com/repos/aynulnet/6in1JsonFixBuild/contents/skglobalvpn.json",
+        "getLink": "https://api.github.com/repos/aynulnet/6in1JsonFixBuild/contents/skglobalvpn.json",
+        "noticeLink": "https://assamvip.xyz/api/app?json=5461d6e37cdc085a4bd0"
     }
 }
