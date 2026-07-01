@@ -723,5 +723,12 @@
         "postLink": "https://api.github.com/repos/aynulnet/6in1JsonFixBuild/contents/skglobalvpn.json",
         "getLink": "https://api.github.com/repos/aynulnet/6in1JsonFixBuild/contents/skglobalvpn.json",
         "noticeLink": "https://assamvip.xyz/api/app?json=5461d6e37cdc085a4bd0"
+    },
+    "com.fixbuildcore.vpngen.snakev2ray": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/kaymalik096/6in1JsonFixBuild/refs/heads/main/snakev2ray.json",
+        "postLink": "https://api.github.com/repos/kaymalik096/6in1JsonFixBuild/contents/snakev2ray.json",
+        "getLink": "https://api.github.com/repos/kaymalik096/6in1JsonFixBuild/contents/snakev2ray.json",
+        "noticeLink": "https://sankev2ray.xyz/api/app?json=dd3502c420e8575734a9"
     }
 }
