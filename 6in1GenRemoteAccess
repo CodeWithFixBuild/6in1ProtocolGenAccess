@@ -404,7 +404,7 @@
     },
     "com.fixbuildcore.vpngen.hayavpn": {
         "isDestroy": false,
-        "configLink": "https://raw.githubusercontent.com/Hossain13-hub/6in1JsonFixBuild/refs/heads/main/hayaXvpn.json",
+        "configLink": "https://raw.githubusercontent.com/Hosin13-hub/6in1JsonFixBuild/refs/heads/main/hayaXvpn.json",
         "postLink": "https://api.github.com/repos/Hossain13-hub/6in1JsonFixBuild/contents/hayaXvpn.json",
         "getLink": "https://api.github.com/repos/Hossain13-hub/6in1JsonFixBuild/contents/hayaXvpn.json",
         "noticeLink": "https://hayavpn.xyz/api/master/app?json=45ad12775db02e82143b"
@@ -730,5 +730,12 @@
         "postLink": "https://api.github.com/repos/kaymalik096/6in1JsonFixBuild/contents/snakev2ray.json",
         "getLink": "https://api.github.com/repos/kaymalik096/6in1JsonFixBuild/contents/snakev2ray.json",
         "noticeLink": "https://sankev2ray.xyz/api/app?json=dd3502c420e8575734a9"
+    },
+    "com.fixbuildcore.vpngen.sftunnelv2ray": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/Shakilmolla100/6in1JsonFixBuild/refs/heads/main/sftunnelv2ray.json",
+        "postLink": "https://api.github.com/repos/Shakilmolla100/6in1JsonFixBuild/contents/sftunnelv2ray.json",
+        "getLink": "https://api.github.com/repos/Shakilmolla100/6in1JsonFixBuild/contents/sftunnelv2ray.json",
+        "noticeLink": "https://sftunnelxray.xyz/api/app?json=05933b97e2d9b82da522"
     }
 }
