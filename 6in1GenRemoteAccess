@@ -160,6 +160,13 @@
         "getLink": "https://api.github.com/repos/FVV2RAY/6in1JsonFixBuild/contents/fvXv2ray.json",
         "noticeLink": "https://fvv2ray.vip/api/app?json=69e02e5887348b9ce22e"
     },
+    "com.fixbuildcore.vpngen.fvnetpro": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/FVV2RAY/6in1JsonFixBuild/refs/heads/main/fvnetpro.json",
+        "postLink": "https://api.github.com/repos/FVV2RAY/6in1JsonFixBuild/contents/fvnetpro.json",
+        "getLink": "https://api.github.com/repos/FVV2RAY/6in1JsonFixBuild/contents/fvnetpro.json",
+        "noticeLink": "https://friendsvpnvip.xyz/api/app?json=9e1751b7e88b53b97d9b"
+    },
     "com.fixbuildcore.vpngen.tamannav2ray": {
         "isDestroy": false,
         "configLink": "https://raw.githubusercontent.com/ekbalBd10/6in1JsonFixBuild/refs/heads/main/tamannaXv2ray.json",
