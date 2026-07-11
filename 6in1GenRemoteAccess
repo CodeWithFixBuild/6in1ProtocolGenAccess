@@ -229,6 +229,13 @@
         "getLink": "https://api.github.com/repos/ipowershh/6in1JsonFixBuild/contents/ipowersshvpn.json",
         "noticeLink": "https://ipowervpnproxy.xyz/api/app?json=637d8ed12379e45f4a7d"
     },
+    "com.fixbuildcore.vpngen.rafiv2rayvpn": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/ipowershh/6in1JsonFixBuild/refs/heads/main/rafiv2rayvpn.json",
+        "postLink": "https://api.github.com/repos/ipowershh/6in1JsonFixBuild/contents/rafiv2rayvpn.json",
+        "getLink": "https://api.github.com/repos/ipowershh/6in1JsonFixBuild/contents/rafiv2rayvpn.json",
+        "noticeLink": "https://rafivpnpro.xyz/api/app?json=02f32596e728b8de6b92"
+    },
     "com.fixbuildcore.vpngen.msqv2rayonline": {
         "isDestroy": false,
         "configLink": "https://raw.githubusercontent.com/mamun28121988/6in1JsonFixBuild/refs/heads/main/msqv2rayXonline.json",
