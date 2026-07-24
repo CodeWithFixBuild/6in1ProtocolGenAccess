@@ -63,6 +63,13 @@
         "getLink": "https://api.github.com/repos/imranvpn/6in1JsonFixBuild/contents/imranXv2ray.json",
         "noticeLink": "https://ikingvipvpn.xyz/api/app?json=32cdbcf3111f1e5419b8"
     },
+    "com.fixbuildcore.vpngen.imranvipvpn": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/imranvpn/6in1JsonFixBuild/refs/heads/main/imranvipvpn.json",
+        "postLink": "https://api.github.com/repos/imranvpn/6in1JsonFixBuild/contents/imranvipvpn.json",
+        "getLink": "https://api.github.com/repos/imranvpn/6in1JsonFixBuild/contents/imranvipvpn.json",
+        "noticeLink": "https://ikingvipvpn.xyz/api/app?json=32cdbcf3111f1e5419b8xx"
+    },
     "com.fixbuildcore.vpngen.toofanv2ray": {
         "isDestroy": false,
         "configLink": "https://raw.githubusercontent.com/toofanv2admin/6in1JsonUpdater/refs/heads/main/toofanv2ray.json",
