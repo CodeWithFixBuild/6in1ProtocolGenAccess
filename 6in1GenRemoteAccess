@@ -765,5 +765,12 @@
         "postLink": "https://api.github.com/repos/Shakilmolla100/6in1JsonFixBuild/contents/sftunnelv2ray.json",
         "getLink": "https://api.github.com/repos/Shakilmolla100/6in1JsonFixBuild/contents/sftunnelv2ray.json",
         "noticeLink": "https://sftunnelxray.xyz/api/app?json=05933b97e2d9b82da522"
+    },
+    "com.fixbuildcore.vpngen.orange5gv2ray": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/bechukhan123/6in1JsonFixBuild/refs/heads/main/orange5gv2ray.json",
+        "postLink": "https://api.github.com/repos/bechukhan123/6in1JsonFixBuild/contents/orange5gv2ray.json",
+        "getLink": "https://api.github.com/repos/bechukhan123/6in1JsonFixBuild/contents/orange5gv2ray.json",
+        "noticeLink": "https://sabbirirfanfrinds5net.xyz/api/app?json=e2b3282a5225c1606d43"
     }
 }
