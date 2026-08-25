@@ -772,5 +772,12 @@
         "postLink": "https://api.github.com/repos/bechukhan123/6in1JsonFixBuild/contents/orange5gv2ray.json",
         "getLink": "https://api.github.com/repos/bechukhan123/6in1JsonFixBuild/contents/orange5gv2ray.json",
         "noticeLink": "https://sabbirirfanfrinds5net.xyz/api/app?json=e2b3282a5225c1606d43"
+    },
+    "com.fixbuildcore.vpngen.megaatkvpn": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/ezazul22/6in1JsonFixBuild/refs/heads/main/megaatkvpn.json",
+        "postLink": "https://api.github.com/repos/ezazul22/6in1JsonFixBuild/contents/megaatkvpn.json",
+        "getLink": "https://api.github.com/repos/ezazul22/6in1JsonFixBuild/contents/megaatkvpn.json",
+        "noticeLink": "https://megavpnpro.xyz/api/app?json=8dd6d72dc79ce81ac34a"
     }
 }
