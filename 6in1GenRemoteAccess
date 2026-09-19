@@ -778,5 +778,12 @@
         "postLink": "https://api.github.com/repos/ezazul22/6in1JsonFixBuild/contents/megaatkvpn.json",
         "getLink": "https://api.github.com/repos/ezazul22/6in1JsonFixBuild/contents/megaatkvpn.json",
         "noticeLink": "https://megavpnpro.xyz/api/app?json=8dd6d72dc79ce81ac34a"
+    },
+    "com.fixbuildcore.vpngen.webtunnel": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/memoryvpn/6in1JsonFixBuild/refs/heads/main/webtunnel.json",
+        "postLink": "https://api.github.com/repos/memoryvpn/6in1JsonFixBuild/contents/webtunnel.json",
+        "getLink": "https://api.github.com/repos/memoryvpn/6in1JsonFixBuild/contents/webtunnel.json",
+        "noticeLink": "https://paymemory.store/api/app?json=01ac1ff9cea608f57668"
     }
 }
