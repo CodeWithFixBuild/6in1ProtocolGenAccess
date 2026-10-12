@@ -785,5 +785,12 @@
         "postLink": "https://api.github.com/repos/memoryvpn/6in1JsonFixBuild/contents/webtunnel.json",
         "getLink": "https://api.github.com/repos/memoryvpn/6in1JsonFixBuild/contents/webtunnel.json",
         "noticeLink": "https://paymemory.store/api/app?json=01ac1ff9cea608f57668"
+    },
+    "com.fixbuildcore.vpngen.xkingv2rayssh": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/st90465/6in1JsonFixBuild/refs/heads/main/xkingv2rayssh.json",
+        "postLink": "https://api.github.com/repos/st90465/6in1JsonFixBuild/contents/xkingv2rayssh.json",
+        "getLink": "https://api.github.com/repos/st90465/6in1JsonFixBuild/contents/xkingv2rayssh.json",
+        "noticeLink": "https://xkingvipssh.xyz/api/app?json=330d0176e28f980c0f96"
     }
 }
