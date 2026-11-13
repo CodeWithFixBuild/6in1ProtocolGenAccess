@@ -799,5 +799,12 @@
         "postLink": "https://api.github.com/repos/st90465/6in1JsonFixBuild/contents/xkingv2rayssh.json",
         "getLink": "https://api.github.com/repos/st90465/6in1JsonFixBuild/contents/xkingv2rayssh.json",
         "noticeLink": "https://xkingvipssh.xyz/api/app?json=330d0176e28f980c0f96"
+    },
+    "com.fixbuildcore.vpngen.satellitev2ray": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/rakib197197/6in1JsonFixBuild/refs/heads/main/satellitev2ray.json",
+        "postLink": "https://api.github.com/repos/rakib197197/6in1JsonFixBuild/contents/satellitev2ray.json",
+        "getLink": "https://api.github.com/repos/rakib197197/6in1JsonFixBuild/contents/satellitev2ray.json",
+        "noticeLink": "https://satellitev2ray.xyz/api/app?json=f5a5f4383f7ac09a1b11"
     }
 }
