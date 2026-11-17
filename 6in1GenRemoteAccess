@@ -806,5 +806,12 @@
         "postLink": "https://api.github.com/repos/rakib197197/6in1JsonFixBuild/contents/satellitev2ray.json",
         "getLink": "https://api.github.com/repos/rakib197197/6in1JsonFixBuild/contents/satellitev2ray.json",
         "noticeLink": ""
+    },
+    "com.fixbuildcore.vpngen.luluv2rayvip": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/luluv2ray/6in1JsonFixBuild/refs/heads/main/luluv2rayvip.json",
+        "postLink": "https://api.github.com/repos/luluv2ray/6in1JsonFixBuild/contents/luluv2rayvip.json",
+        "getLink": "https://api.github.com/repos/luluv2ray/6in1JsonFixBuild/contents/luluv2rayvip.json",
+        "noticeLink": ""
     }
 }
